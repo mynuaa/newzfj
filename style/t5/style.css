@@ -1,0 +1,21 @@
+﻿/*
+[name]蓝[/name]
+[iconbgcolor]#0053B9[/iconbgcolor]
+Powered by Discuz! X
+*/
+
+body { background: #FFF url(bgimg.jpg) no-repeat 0 0; }
+#nv { background: #007EFF; }
+	/*#nv li { background: #007EFF; }*/
+	#nv li.a { padding-right: 4px; background: #0057b0; }
+		#nv li.a a, #nv li.a a:hover{ background: #0057b0; color: #FFF !important; }
+		#nv li a:hover{background: #0066CC;}
+		
+.ct2_a, .ct3_a { background-color: #FFF; }
+
+#tabwkNtJC{border-bottom: 4px solid #0076FF;}
+.neww_sl{border-bottom:4px solid #0076FF;}
+.sl_w{border-bottom:4px solid #0076FF;}
+.new_sl{border-bottom:4px solid #0076FF;}
+
+#userstatus a.unact{background: url(active.png) no-repeat;}/*激活*/

@@ -1,0 +1,77 @@
+/*
+[name]灰[/name]
+[iconbgcolor]#AAA[/iconbgcolor]
+Powered by Discuz! X
+*/
+
+body { background: #F8F8F8 url(bgimg.jpg) no-repeat 50% 0; }
+#nv { background-color: #AAA; background-image: url(nv.png); }
+	#nv li, #nv li a:hover, #nv li.hover a, #nv li.hover a:hover { background-image: url(nv_a.png) !important; }
+	#nv li.a { background-color: #555; }
+	#qmenu { background-image: url(../t1/qmenu.png); }
+#scbar, #scbar_form, .scbar_icon_td, .scbar_txt_td, .scbar_type_td, .scbar_btn_td { background-image: url(search.png); }
+#scbar { border-color: #AAA; }
+/*.tl tr:hover th{border-bottom: 1px solid #D0D0D0;}*/
+.bm_h, .tl th, .tl td ,.tl .th th{ border-bottom:1px solid #D0D0D0; }
+.fl .bm_h { border-color: #AAA; background: #F2F2F2 url(titlebg.png) repeat-x 0 0; }
+
+/* 重定义 {SPECIALBG} */
+.bmn, .bm_h, td.pls, .ad td.plc, div.exfm, .tb a, .tb_h, .ttp li.a a, div.uo a, input#addsubmit_btn, #gh .bm .bm_h, .appnew, .apphot { background-color: #F2F2F2; }
+
+.ct2_a, .ct3_a { background-image: url(vlineb.png); }
+	.ct3_a .bm { background-color: transparent; }
+.tbn li.a { background: #FCFAF0; }
+	#nv_portal.pg_portalcp .ct2_a_r, #nv_forum.pg_post .ct2_a_r { background-image: none; }
+
+/* 重定义 {SPECIALBORDER} */
+.bmn, .pg a, .pgb a, .pg strong, .card, .card .o, div.exfm  { border-color: #AAA; }
+.pg strong { background-color: #AAA; }
+.pn, .tb .o, .tb .o a { background-image: url(pn.png); }
+	.pnc, a.pnc, .tb .o { border-color: #AAA; }
+
+.mi .moodfm_input { background-image: url(mood_input.png); }
+
+.ad td.pls { background-color: #AAA; }
+
+/* 重定义字体 */
+#qmenu, .fl .bm_h h2 a, .xi1, #um .new, .topnav .new, .sch .new, .el .ec .hot em, .pll .s a.joins, #diy_backup_tip .xi2 { color: #444; }
+.pll .s a.go { color: #FFF; }
+.xi2, .xi2 a { color: #000; }
+
+/* 重定义按钮 */
+.pgs #newspecial, .pgs #newspecialtmp { float: left; background: url(pn_post.png) no-repeat 0 0; }
+#post_reply, #post_replytmp { float: left; background: url(pn_reply.png) no-repeat 0 0; }
+	#newspecial img, #newspecialtmp img, #post_reply img, #post_replytmp img { opacity: 0; filter: alpha(opacity=0); }
+.moodfm_btn { background-image: url(mood_input_btn.png) !important; }
+#create_group_btn { display: block; background: url(create_group.png) no-repeat 0 0; }
+	#create_group_btn img { opacity: 0; filter: alpha(opacity=0); }
+.el .ec .hot, .clct_list .xld .m { background-image: url(hotspot.gif); }
+.pll .s { background-image:url(polljoins.gif); }
+
+/* 重定义 Tab */
+.tb .a a { border-bottom-color: #FCFAF0; background: #FCFAF0; }
+
+/* 重定义广播 */
+#uhd, #flw_header .bar { background-color: #FEFCF8; }
+	#uhd .tb a, #flw_header .bar { border-top-color: #FCF0D7; }
+	#uhd .tb .a a { border-bottom-color: #FCFAF0; }
+.flw_replybox { background-color: #FEFCF8; }
+	.flw_replybox .px, .flw_autopt, #flw_header .tedt { border-color: #AAA; }
+.pg_follow #fastpostsubmit { background-image: url(flw_post.png); }
+.flw_replybox .pnc { background-image: url(pn_reply.png); }
+.flw_replybox td table .pnc { background-image: url(pn_rt.png); }
+#flw_post_extra .sec { border-color: #FCF0D7; background-color: #FEFCF8; }
+
+/* 重定义版块快速跳转和侧边导航 */
+#fjump_menu li.a a { background-color: #F2F2F2; }
+.bdl, .bdl dt, .bdl dd.bdl_a a { border-color: #BBB; background-color: #FAFBFC; }
+	.bdl dt { background-image: url(titlebg_sd.png); }
+.bdl dd.bdl_a a { color: #000; }
+
+/* 重定义下拉菜单 */
+.p_pop a { border-bottom-color: #F2F2F2; }
+	.p_pop a:hover, .p_pop a.a, #sctype_menu .sca { background-color: #F2F2F2; color: #000; }
+	.blk a:hover { background-color: transparent; }
+
+/* 重定义好友列表 */
+#nv_home .buddy li { background-color: transparent; border: none; }

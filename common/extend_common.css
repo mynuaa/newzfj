@@ -1,0 +1,75 @@
+﻿.dis_b{display: block!important;}
+/*导航及活跃会员*/
+.scan_leader{height: 32px;line-height: 32px;text-align: center;font-weight: 700;font-size: 14px;}
+	.scan_leader li{float: left;width: 80px;}
+	.scan_leader li:first-child{background: {MENUBGCOLOR};}
+	.scan_leader li:hover{background: {MENULIGHTCOLOR};}
+		.scan_leader li a{color:#FFF;}
+		.scan_leader li a:hover{text-decoration: none;}
+	.scan_leader .z{width: 80px;background: {MENUBGCOLOR};color:#FFF;}
+	.scan_leader .y{width: 160px;color:{MENUBGCOLOR};text-align:right;}
+/*.sl:nth-child(2){display: block;}*/
+/*板块*/
+.metro1 .bm_h,#section_title .bm_h{background:none;border:none;padding:0px;}
+	.metro1 .bm_h h2,#online .title strong,.lk .title strong{width:120px;text-align:center;color:#FFF;float:left;{TITLEBGCODE};}
+		.metro1 .bm_h h2 a,#section_title h2 a{color:#FFF;}
+	.fl.bm{border:none;}
+#section_title .bm_h{height: 40px;line-height: 40px;background: #74B8FF;}
+	#section_title li{float: left;}
+		#section_title h2{width: 96px;background: none;text-align:center;color:#FFF;float:left;}
+		#section_title .a{background-color: {MENUBGCOLOR}!important;}
+		#section_content .flg h2{cursor: pointer;{TITLEBGCODE};}
+.ca_body{border: 4px solid {MENUBGCOLOR};padding:10px;}
+	.ca_body .metro1{display: none;}
+
+
+	#category_0{border-left: 1px solid #CCC;border-right: 1px solid #CCC;}
+/*diy=section_0*/
+#section_0 .frame{display: none;}
+.diy_yes .frame{display: block!important;}
+/*#section_0 .frame:first-child{display: block;}*/
+/*	.ca_body .metro1:first-child{display: block;}*/
+/*区板块图标*/
+#section_title .img{background-position:0 -4px;background-repeat:no-repeat; text-indent: 35px;}
+/*在线会员,友情链接*/
+#online{margin-bottom:10px;}
+#online .title,.lk .title{padding: 0px;border-bottom: 4px solid {MENUBGCOLOR};}
+	#online .bm_h{border:none;background: none;padding:0px;border-bottom: 4px solid {MENUBGCOLOR};}
+		#online .bm_h h3{color:{MENUBGCOLOR};}
+	#online .bm_c{}
+
+/*diy通用*/
+/*.block .dxb_bc{border-bottom: 4px solid {MENUBGCOLOR};}*/
+#nv_forum .slidebox {margin-top: 42px;}
+	.slideshow .title{border: none!important;}
+
+	
+.sl_w{height: 285px;border-bottom:4px solid #0075FF;}
+.sl_x{height: 235px;}
+
+.new_sl{border-bottom: 4px solid #0075FF;height: 321px;}
+.neww_sl{border-bottom: 4px solid #0075FF;}
+.new_sl{border-bottom: 4px solid #0075FF;}
+#forumnav
+{
+	position:fixed;
+	width:120px;
+	top:120px;
+	left:0px;
+	background:#007EFF;
+}
+#backbutton
+{
+	position:fixed;
+	width:30px;
+	height:30px;
+	top:260px;
+	left:120px;
+	background:#009EFF;
+	color:white;
+	font-size:20px;
+}
+.navitablestyle
+{
+	background:#58ACFA;
+}

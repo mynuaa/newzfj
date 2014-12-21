@@ -1,0 +1,149 @@
+/*
+[name]青[/name]
+[iconbgcolor]#429296[/iconbgcolor]
+Powered by Discuz! X
+*/
+
+body { background: #FFF url(bgimg.jpg) no-repeat 50% 0; }
+#nv { background-color: #429296; background-image: url(nv.png); }
+	#nv li, #nv li a:hover, #nv li.hover a, #nv li.hover a:hover { background-image: url(nv_a.png) !important; }
+	#nv li.a { background-color: #005D5D; }
+
+.bm_h, .tl th, .tl td { border-bottom-color: #CDCDCD; }
+.fl .bm_h { border-color: #C5E6DF; background: #EBF5F6 url(titlebg.png) repeat-x 0 0; }
+
+/* 重定义 {SPECIALBG} */
+.bmn, .bm_h, td.pls, .ad td.plc, div.exfm, .tb a, .tb_h, .ttp li.a a, div.uo a, input#addsubmit_btn, #gh .bm .bm_h, .appnew, .apphot { background-color: #EBF5F6; }
+
+.ct2_a, .ct3_a { background-image: url(vlineb.png); }
+.tbn li.a { background: #FFF; }
+	#nv_portal.pg_portalcp .ct2_a_r, #nv_forum.pg_post .ct2_a_r { background-image: none; }
+
+/* 重定义 {SPECIALBORDER} */
+.bmn, .pg a, .pgb.a, .pg strong, .card, .card .o, div.exfm  { border-color: #C5E6DF; }
+.pg strong { background-color: #C5E6DF; }
+.pn, .tb .o, .tb .o a { background-image: url(pn.png); }
+	.pnc, a.pnc, .tb .o { border-color: #066; }
+
+
+.ad td.pls { background-color: #C5E6DF; }
+
+/* 重定义字体 */
+#qmenu, .fl .bm_h h2 a, .xi1, #um .new, .topnav .new, .sch .new, .el .ec .hot em, .pll .s a.joins { color: #429296; }
+.pll .s a.go { color: #FFF; }
+.xi2, .xi2 a { color: #000; }
+
+/* 重定义按钮 */
+.pgs #newspecial, .pgs #newspecialtmp { float: left; background: url(pn_post.png) no-repeat 0 0; }
+#post_reply, #post_replytmp { float: left; background: url(pn_reply.png) no-repeat 0 0; }
+	#newspecial img, #newspecialtmp img, #post_reply img, #post_replytmp img { opacity: 0; filter: alpha(opacity=0); }
+.moodfm_btn { background-image: url(mood_input_btn.png) !important; }
+#create_group_btn { display: block; background: url(create_group.png) no-repeat 0 0; }
+	#create_group_btn img { opacity: 0; filter: alpha(opacity=0); }
+.el .ec .hot, .clct_list .xld .m { background-image: url(hotspot.gif); }
+.pll .s { background-image:url(polljoins.gif); }
+
+/* 重定义广播 */
+#uhd, #flw_header .bar, .flw_replybox { background-color: #F4F9F9; }
+.pg_follow #fastpostsubmit { background-image: url(flw_post.png); }
+.flw_replybox .pnc { background-image: url(pn_reply.png); }
+.flw_replybox td table .pnc { background-image: url(pn_rt.png); }
+#flw_post_extra .sec { background-color: #F4F9F9; }
+
+/* 重定义版块快速跳转和侧边导航 */
+#fjump_menu li.a a { background-color: #EBF5F6; }
+.bdl, .bdl dt, .bdl dd.bdl_a a { border-color: #C2D5E3; background-color: #EBF5F6; }
+	.bdl dt { background-image: url(titlebg_sd.png); }
+.bdl dd.bdl_a a { color: #429296; }
+
+/* 重定义下拉菜单 */
+.p_pop a { border-bottom-color: #EBF5F6; }
+.p_pop a:hover, .p_pop a.a, #sctype_menu .sca { background-color: #EBF5F6; color: #429296; }
+.blk a:hover { background-color: transparent; }
+#toptb { background-color: transparent;line-height:40px;z-index:1;background: url(toptb.png) repeat-x !important;}
+#commonset{ background:url(toptb.png);}
+#toptbxl{ background:url(toptb.png);}
+#toptbmsg{ background:url(toptb.png);}
+.wi{ background-color:#458988;}
+#toptbweather{width:432px;height:40px;}
+.c1{ background-color:#458988;}
+#username{ background-color:#458996;}
+#usergroup{ background-color:#458988;}
+.z{background-color:transparent;}
+.bm_h{ background-color:#025b5f;}
+#um .avt{background-color:#458996;}
+.frame-tab{ color:#025b5f;}
+.pos{height: 40px;}
+.wt_icon_td_hd{background:url(weather.png) no-repeat 0px -10px;}
+.wt_txt{background:url(weather.png) repeat-x 0px -61px;}
+.wt_icon_td_ft{background:url(weather.png) no-repeat 0px -108px;}
+.scbar_icon_td{background:url(search.png) 0 -6px no-repeat;}
+.scbar_txt_td{background:url(search.png) 0px -58px repeat-x;}
+.scbar_type_td{background:url(search.png) 0px -106px no-repeat;}
+.scbar_btn_td{background:url(search.png) 4px -153px no-repeat;}
+
+#userstatus a.normal{background: url(login_normal.png) no-repeat;}/*在线*/
+#userstatus a.invisible{background: url(login_invisible.png) no-repeat;}/*隐身*/
+
+
+#userstatus a.setup{background: url(setup.png) no-repeat;}/*设置*/
+#userstatus a.notice_pm{background: url(notice_pm.png) no-repeat;}/*消息_提醒*/
+	#myprompt.newmsg{background-position:-66px !important; }
+#userstatus a.logout{background: url(logout.png) no-repeat;}/*注销*/
+#userstatus a.myrepeats{background: url(myrepeats.png) no-repeat;}/*马甲*/
+#userstatus a.extra{background: url(extra.png) no-repeat;}/*其他*/
+#userstatus a.unact{background: url(active.png) no-repeat;}/*激活*/
+#userstatus a:hover{background-position:-33px; }
+.frame-tab .tb .a a{background-color: #458988;}
+.frame-title, .frametitle, .tab-title{background-color: #75d2ac;border-bottom: 4px solid #458988 !important; }
+.scan_leader .z{background:#458988; }
+.scan_leader .y{color:#458988; }
+#tabwkNtJC{border-bottom: 4px solid #458988;}
+.metro1 .bm_h h2{background:#458988; }
+.fl .bm_h h2 a{color:white;}
+#section_title .bm_h{background:#75d2ac; }
+.ca_body{border:4px solid #458988;}
+.fl .bm_h{background:white; border-bottom: 4px solid #458988 !important;}
+.fl .bm_c{border-bottom: 4px solid #458988 !important;}
+#section_title .a{background-color:#458988 !important; }
+.frame .title .titletext, .block .title .titletext{background: #458988;}
+.title{border-bottom:4px solid #458988;}
+.nvhm{background: url(home.png) no-repeat 0 3px}
+.neww_sl{border-bottom:4px solid #458988;}
+.sl_w{border-bottom:4px solid #458988;}
+.new_sl{border-bottom:4px solid #458988;}
+#online .title strong{background:#458988; }
+#online .bm_h{border-bottom: 4px solid #458988; }
+.lk .title strong{background:#458988;}
+.lk .title{border-bottom: 4px solid #458988; }
+.lk .bm_c{border-bottom: 4px solid #458988; }
+#toptb{background: #458988;}
+#nv li a:hover{background: #42c28d;}
+#section_content .flg h2{background:#458988; }
+#online .bm_h h3{color:#458988;}
+.bmw .bm_h a{color:#458988;}
+#online .bm_c{border-bottom: 4px solid #458988;}
+#nv {background:#3F8288;}
+#forumnav
+{
+	position:fixed;
+	width:120px;
+	top:120px;
+	left:0px;
+	background:#088A4B;
+}
+#backbutton
+{
+	position:fixed;
+	width:30px;
+	height:30px;
+	top:260px;
+	left:120px;
+	background:#04B486;
+	color:white;
+	font-size:20px;
+}
+.navitablestyle
+{
+	background:#04B45F;
+}
