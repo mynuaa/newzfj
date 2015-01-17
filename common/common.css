@@ -585,7 +585,7 @@ CSS 写作注意事项：
 		#toptb .pipe { float: left; display: none; }
 		#space #toptb a{color: #333;}
 		#toptb .pos{float: left;margin-left:-481px;width: 50%;z-index: 1;overflow: hidden;}/*top左右位置*/
-		#toptb .zdex{position: relative;z-index: 2;}
+		#toptb .zdex{z-index: 2;}
 			#toptb .innerpos{margin-left: 481px;}/*内嵌位置修正*/
 				#toptb .innerpos a{width: 56px;color:#FFF;float: left;height: 43px;padding: 0 4px;}
 				#diy-tg{margin-top: 7px;height: 28px!important;}/*diy按钮位置修正*/
@@ -610,7 +610,7 @@ CSS 写作注意事项：
 			#scbar { overflow: hidden; height: 43px;}
 				.scbar_icon_td {width:21px;background: url({STYLEIMGDIR}/search.png) 0 -6px no-repeat;}
 				.scbar_txt_td{background: url({STYLEIMGDIR}/search.png) 0px -58px repeat-x;}
-					#scbar_txt { width: 240px; border: 1px solid #FFF; outline: none;margin-bottom: 6px; }
+					#scbar_txt { width: 240px; border: 1px solid #FFF; outline: none;}
 					.scbar_narrow #scbar_txt { width: 260px; }
 				.scbar_btn_td { width: 38px; background: url({STYLEIMGDIR}/search.png) 4px -153px no-repeat; }
 					#scbar_btn { margin: 0; padding: 0; border: none; background: transparent none; box-shadow: none; }
@@ -1834,3 +1834,6 @@ DIY图片幻灯片未加载时隐藏,模块标识隐藏
 
 .wechat_bind{background:url(./template/newzfj/images/wechat.png) no-repeat;overflow:hidden;}
 .wechat_bind:hover{background-position-x:33px;}
+.scbar_hot_td{display:none;}
+#diynav{margin-left:0 !important;width:60px !important;}
+#diynav>.innerpos{margin-left:0;}
