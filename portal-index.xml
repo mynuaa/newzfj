@@ -1,111 +1,24 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <root>
-	<item id="spacecss"><![CDATA[#portal_block_264 .dxb_bc { font-size:12px !important;}#portal_block_267 .dxb_bc { font-size:12px !important;}#portal_block_266 { border-right-width:0px !important;}#portal_block_265 { border:#000000 0px !important;}]]></item>
+	<item id="spacecss"><![CDATA[#portal_block_226 { border:#000000 0px !important;margin:0px !important;}#framePbvySo { border:0px !important;margin:0px !important;}#portal_block_254 .dxb_bc { font-size:12px !important;margin:0px !important;}#portal_block_252 { border:0px !important;margin:0px !important;}#portal_block_252 .dxb_bc { margin:0px !important;}#frameH3Yvq2 { border:0px !important;margin:0px !important;}#portal_block_254 { border:0px !important;margin:0px !important;}#frameeWkG26 { border:#000000 0px !important;margin:0px !important;}#tabcXRxPW { border:#000000 0px !important;margin-bottom:-10px !important;}#frame564U3Q { border:0px !important;}#portal_block_258 { border:0px !important;}#portal_block_257 { border:0px !important;}#tabvrdveD { border:#000000 0px !important;margin-bottom:-10px !important;}#portal_block_226 .dxb_bc { margin:0px !important;}]]></item>
 	<item id="layoutdata">
 		<item id="diy1">
-			<item id="frame`frame9Bs72i">
+			<item id="frame`frameeWkG26">
 				<item id="attr">
-					<item id="name"><![CDATA[frame9Bs72i]]></item>
+					<item id="name"><![CDATA[frameeWkG26]]></item>
 					<item id="moveable"><![CDATA[true]]></item>
-					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="className"><![CDATA[ frame move-span cl frame-1]]></item>
 					<item id="titles"><![CDATA[]]></item>
 				</item>
-				<item id="column`frame9Bs72i_left">
+				<item id="column`frameeWkG26_left">
 					<item id="attr">
-						<item id="name"><![CDATA[frame9Bs72i_left]]></item>
+						<item id="name"><![CDATA[frameeWkG26_left]]></item>
 						<item id="className"><![CDATA[column frame-1-c]]></item>
 					</item>
-					<item id="block`portal_block_266">
+					<item id="block`portal_block_226">
 						<item id="attr">
-							<item id="name"><![CDATA[portal_block_266]]></item>
-							<item id="className"><![CDATA[xbs xbs_7 block move-span]]></item>
-							<item id="titles"><![CDATA[]]></item>
-						</item>
-					</item>
-					<item id="frame`frame47ZoDo">
-						<item id="attr">
-							<item id="name"><![CDATA[frame47ZoDo]]></item>
-							<item id="moveable"><![CDATA[true]]></item>
-							<item id="className"><![CDATA[frame move-span cl frame-1-1]]></item>
-							<item id="titles"><![CDATA[]]></item>
-						</item>
-						<item id="column`frame47ZoDo_left">
-							<item id="attr">
-								<item id="name"><![CDATA[frame47ZoDo_left]]></item>
-								<item id="className"><![CDATA[column frame-1-1-l]]></item>
-							</item>
-							<item id="block`portal_block_264">
-								<item id="attr">
-									<item id="name"><![CDATA[portal_block_264]]></item>
-									<item id="className"><![CDATA[ block move-span]]></item>
-									<item id="titles">
-										<item id="className">
-											<item id="0"><![CDATA[blocktitle title]]></item>
-										</item>
-										<item id="style">
-											<item id="background-repeat"><![CDATA[repeat repeat]]></item>
-										</item>
-										<item id="first">
-											<item id="text"><![CDATA[最新公告]]></item>
-											<item id="href"><![CDATA[]]></item>
-											<item id="color"><![CDATA[rgb(255, 255, 255)]]></item>
-											<item id="float"><![CDATA[]]></item>
-											<item id="margin"><![CDATA[]]></item>
-											<item id="font-size"><![CDATA[14]]></item>
-											<item id="className"><![CDATA[titletext]]></item>
-											<item id="src"><![CDATA[]]></item>
-										</item>
-									</item>
-								</item>
-							</item>
-						</item>
-						<item id="column`frame47ZoDo_center">
-							<item id="attr">
-								<item id="name"><![CDATA[frame47ZoDo_center]]></item>
-								<item id="className"><![CDATA[column frame-1-1-r]]></item>
-							</item>
-							<item id="block`portal_block_267">
-								<item id="attr">
-									<item id="name"><![CDATA[portal_block_267]]></item>
-									<item id="className"><![CDATA[ block move-span]]></item>
-									<item id="titles">
-										<item id="className">
-											<item id="0"><![CDATA[blocktitle title]]></item>
-										</item>
-										<item id="style"><![CDATA[]]></item>
-										<item id="first">
-											<item id="text"><![CDATA[飞机热门]]></item>
-											<item id="href"><![CDATA[]]></item>
-											<item id="color"><![CDATA[]]></item>
-											<item id="float"><![CDATA[]]></item>
-											<item id="margin"><![CDATA[]]></item>
-											<item id="font-size"><![CDATA[14]]></item>
-											<item id="className"><![CDATA[titletext]]></item>
-											<item id="src"><![CDATA[]]></item>
-										</item>
-									</item>
-								</item>
-							</item>
-						</item>
-					</item>
-				</item>
-			</item>
-			<item id="frame`frameHqdRRd">
-				<item id="attr">
-					<item id="name"><![CDATA[frameHqdRRd]]></item>
-					<item id="moveable"><![CDATA[true]]></item>
-					<item id="className"><![CDATA[cl_frame_bm frame move-span cl frame-1]]></item>
-					<item id="titles"><![CDATA[]]></item>
-				</item>
-				<item id="column`frameHqdRRd_left">
-					<item id="attr">
-						<item id="name"><![CDATA[frameHqdRRd_left]]></item>
-						<item id="className"><![CDATA[column frame-1-c]]></item>
-					</item>
-					<item id="block`portal_block_265">
-						<item id="attr">
-							<item id="name"><![CDATA[portal_block_265]]></item>
-							<item id="className"><![CDATA[ block move-span]]></item>
+							<item id="name"><![CDATA[portal_block_226]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
 							<item id="titles">
 								<item id="className">
 									<item id="0"><![CDATA[blocktitle title]]></item>
@@ -126,19 +39,388 @@
 							</item>
 						</item>
 					</item>
-					<item id="frame`framehm7DML">
+					<item id="block`portal_block_252">
 						<item id="attr">
-							<item id="name"><![CDATA[framehm7DML]]></item>
-							<item id="moveable"><![CDATA[true]]></item>
-							<item id="className"><![CDATA[cl_frame_bm frame move-span cl frame-1]]></item>
+							<item id="name"><![CDATA[portal_block_252]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
 							<item id="titles"><![CDATA[]]></item>
 						</item>
-						<item id="column`framehm7DML_left">
+					</item>
+					<item id="frame`frame564U3Q">
+						<item id="attr">
+							<item id="name"><![CDATA[frame564U3Q]]></item>
+							<item id="moveable"><![CDATA[true]]></item>
+							<item id="className"><![CDATA[ frame move-span cl frame-1-1]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+						<item id="column`frame564U3Q_left">
 							<item id="attr">
-								<item id="name"><![CDATA[framehm7DML_left]]></item>
-								<item id="className"><![CDATA[column frame-1-c]]></item>
+								<item id="name"><![CDATA[frame564U3Q_left]]></item>
+								<item id="className"><![CDATA[column frame-1-1-l]]></item>
+							</item>
+							<item id="tab`tabvrdveD">
+								<item id="attr">
+									<item id="name"><![CDATA[tabvrdveD]]></item>
+									<item id="moveable"><![CDATA[true]]></item>
+									<item id="className"><![CDATA[ frame-tab move-span cl]]></item>
+									<item id="titles">
+										<item id="className">
+											<item id="0"><![CDATA[tab-title title column cl]]></item>
+										</item>
+										<item id="style"><![CDATA[]]></item>
+										<item id="switchType">
+											<item id="0"><![CDATA[mouseover]]></item>
+										</item>
+									</item>
+								</item>
+								<item id="column`tabvrdveD_title">
+									<item id="attr">
+										<item id="name"><![CDATA[tabvrdveD_title]]></item>
+										<item id="className"><![CDATA[tab-title title column cl]]></item>
+									</item>
+									<item id="block`portal_block_258">
+										<item id="attr">
+											<item id="name"><![CDATA[portal_block_258]]></item>
+											<item id="className"><![CDATA[block move-span]]></item>
+											<item id="titles">
+												<item id="className">
+													<item id="0"><![CDATA[blocktitle title]]></item>
+												</item>
+												<item id="style"><![CDATA[]]></item>
+												<item id="first">
+													<item id="text"><![CDATA[竞赛通知]]></item>
+													<item id="href"><![CDATA[http://my.nuaa.edu.cn/forum.php?mod=forumdisplay&fid=769]]></item>
+													<item id="color"><![CDATA[rgb(255, 255, 255) !important]]></item>
+													<item id="float"><![CDATA[]]></item>
+													<item id="margin"><![CDATA[]]></item>
+													<item id="font-size"><![CDATA[]]></item>
+													<item id="className"><![CDATA[titletext]]></item>
+													<item id="src"><![CDATA[]]></item>
+												</item>
+											</item>
+										</item>
+									</item>
+									<item id="block`portal_block_259">
+										<item id="attr">
+											<item id="name"><![CDATA[portal_block_259]]></item>
+											<item id="className"><![CDATA[block move-span]]></item>
+											<item id="titles">
+												<item id="className">
+													<item id="0"><![CDATA[blocktitle title]]></item>
+												</item>
+												<item id="style"><![CDATA[]]></item>
+												<item id="first">
+													<item id="text"><![CDATA[校内招聘]]></item>
+													<item id="href"><![CDATA[http://my.nuaa.edu.cn/forum.php?mod=forumdisplay&fid=169]]></item>
+													<item id="color"><![CDATA[rgb(255, 255, 255) !important]]></item>
+													<item id="float"><![CDATA[]]></item>
+													<item id="margin"><![CDATA[]]></item>
+													<item id="font-size"><![CDATA[]]></item>
+													<item id="className"><![CDATA[titletext]]></item>
+													<item id="src"><![CDATA[]]></item>
+												</item>
+											</item>
+										</item>
+									</item>
+									<item id="block`portal_block_261">
+										<item id="attr">
+											<item id="name"><![CDATA[portal_block_261]]></item>
+											<item id="className"><![CDATA[block move-span]]></item>
+											<item id="titles">
+												<item id="className">
+													<item id="0"><![CDATA[blocktitle title]]></item>
+												</item>
+												<item id="style"><![CDATA[]]></item>
+												<item id="first">
+													<item id="text"><![CDATA[兼职信息]]></item>
+													<item id="href"><![CDATA[http://my.nuaa.edu.cn/forum.php?mod=forumdisplay&fid=169]]></item>
+													<item id="color"><![CDATA[rgb(255, 255, 255) !important]]></item>
+													<item id="float"><![CDATA[]]></item>
+													<item id="margin"><![CDATA[]]></item>
+													<item id="font-size"><![CDATA[]]></item>
+													<item id="className"><![CDATA[titletext]]></item>
+													<item id="src"><![CDATA[]]></item>
+												</item>
+											</item>
+										</item>
+									</item>
+									<item id="block`portal_block_257">
+										<item id="attr">
+											<item id="name"><![CDATA[portal_block_257]]></item>
+											<item id="className"><![CDATA[block move-span]]></item>
+											<item id="titles">
+												<item id="className">
+													<item id="0"><![CDATA[blocktitle title]]></item>
+												</item>
+												<item id="style"><![CDATA[]]></item>
+												<item id="first">
+													<item id="text"><![CDATA[教务信息]]></item>
+													<item id="href"><![CDATA[http://my.nuaa.edu.cn/forum.php?mod=forumdisplay&fid=208]]></item>
+													<item id="color"><![CDATA[rgb(255, 255, 255) !important]]></item>
+													<item id="float"><![CDATA[]]></item>
+													<item id="margin"><![CDATA[]]></item>
+													<item id="font-size"><![CDATA[]]></item>
+													<item id="className"><![CDATA[titletext]]></item>
+													<item id="src"><![CDATA[]]></item>
+												</item>
+											</item>
+										</item>
+									</item>
+									<item id="block`portal_block_260">
+										<item id="attr">
+											<item id="name"><![CDATA[portal_block_260]]></item>
+											<item id="className"><![CDATA[block move-span]]></item>
+											<item id="titles">
+												<item id="className">
+													<item id="0"><![CDATA[blocktitle title]]></item>
+												</item>
+												<item id="style"><![CDATA[]]></item>
+												<item id="first">
+													<item id="text"><![CDATA[其他招聘]]></item>
+													<item id="href"><![CDATA[http://my.nuaa.edu.cn/forum.php?mod=forumdisplay&fid=169]]></item>
+													<item id="color"><![CDATA[rgb(255, 255, 255) !important]]></item>
+													<item id="float"><![CDATA[]]></item>
+													<item id="margin"><![CDATA[]]></item>
+													<item id="font-size"><![CDATA[]]></item>
+													<item id="className"><![CDATA[titletext]]></item>
+													<item id="src"><![CDATA[]]></item>
+												</item>
+											</item>
+										</item>
+									</item>
+								</item>
 							</item>
 						</item>
+						<item id="column`frame564U3Q_center">
+							<item id="attr">
+								<item id="name"><![CDATA[frame564U3Q_center]]></item>
+								<item id="className"><![CDATA[column frame-1-1-r]]></item>
+							</item>
+							<item id="tab`tabcXRxPW">
+								<item id="attr">
+									<item id="name"><![CDATA[tabcXRxPW]]></item>
+									<item id="moveable"><![CDATA[true]]></item>
+									<item id="className"><![CDATA[ frame-tab move-span cl]]></item>
+									<item id="titles">
+										<item id="className">
+											<item id="0"><![CDATA[tab-title title column cl]]></item>
+										</item>
+										<item id="style"><![CDATA[]]></item>
+										<item id="switchType">
+											<item id="0"><![CDATA[mouseover]]></item>
+										</item>
+									</item>
+								</item>
+								<item id="column`tabcXRxPW_title">
+									<item id="attr">
+										<item id="name"><![CDATA[tabcXRxPW_title]]></item>
+										<item id="className"><![CDATA[tab-title title column cl]]></item>
+									</item>
+									<item id="block`portal_block_262">
+										<item id="attr">
+											<item id="name"><![CDATA[portal_block_262]]></item>
+											<item id="className"><![CDATA[block move-span]]></item>
+											<item id="titles">
+												<item id="className">
+													<item id="0"><![CDATA[blocktitle title]]></item>
+												</item>
+												<item id="style"><![CDATA[]]></item>
+												<item id="first">
+													<item id="text"><![CDATA[生活求助]]></item>
+													<item id="href"><![CDATA[http://my.nuaa.edu.cn/forum.php?mod=forumdisplay&fid=2]]></item>
+													<item id="color"><![CDATA[rgb(255, 255, 255) !important]]></item>
+													<item id="float"><![CDATA[]]></item>
+													<item id="margin"><![CDATA[]]></item>
+													<item id="font-size"><![CDATA[]]></item>
+													<item id="className"><![CDATA[titletext]]></item>
+													<item id="src"><![CDATA[]]></item>
+												</item>
+											</item>
+										</item>
+									</item>
+									<item id="block`portal_block_263">
+										<item id="attr">
+											<item id="name"><![CDATA[portal_block_263]]></item>
+											<item id="className"><![CDATA[block move-span]]></item>
+											<item id="titles">
+												<item id="className">
+													<item id="0"><![CDATA[blocktitle title]]></item>
+												</item>
+												<item id="style"><![CDATA[]]></item>
+												<item id="first">
+													<item id="text"><![CDATA[学习求助]]></item>
+													<item id="href"><![CDATA[http://my.nuaa.edu.cn/forum.php?mod=forumdisplay&fid=750]]></item>
+													<item id="color"><![CDATA[rgb(255, 255, 255) !important]]></item>
+													<item id="float"><![CDATA[]]></item>
+													<item id="margin"><![CDATA[]]></item>
+													<item id="font-size"><![CDATA[]]></item>
+													<item id="className"><![CDATA[titletext]]></item>
+													<item id="src"><![CDATA[]]></item>
+												</item>
+											</item>
+										</item>
+									</item>
+									<item id="block`portal_block_271">
+										<item id="attr">
+											<item id="name"><![CDATA[portal_block_271]]></item>
+											<item id="className"><![CDATA[block move-span]]></item>
+											<item id="titles">
+												<item id="className">
+													<item id="0"><![CDATA[blocktitle title]]></item>
+												</item>
+												<item id="style"><![CDATA[]]></item>
+												<item id="first">
+													<item id="text"><![CDATA[校园新闻]]></item>
+													<item id="href"><![CDATA[]]></item>
+													<item id="color"><![CDATA[]]></item>
+													<item id="float"><![CDATA[]]></item>
+													<item id="margin"><![CDATA[]]></item>
+													<item id="font-size"><![CDATA[]]></item>
+													<item id="className"><![CDATA[titletext]]></item>
+													<item id="src"><![CDATA[]]></item>
+												</item>
+											</item>
+										</item>
+									</item>
+									<item id="block`portal_block_265">
+										<item id="attr">
+											<item id="name"><![CDATA[portal_block_265]]></item>
+											<item id="className"><![CDATA[block move-span]]></item>
+											<item id="titles">
+												<item id="className">
+													<item id="0"><![CDATA[blocktitle title]]></item>
+												</item>
+												<item id="style"><![CDATA[]]></item>
+												<item id="first">
+													<item id="text"><![CDATA[活动召集]]></item>
+													<item id="href"><![CDATA[http://my.nuaa.edu.cn/forum.php?mod=forumdisplay&fid=2]]></item>
+													<item id="color"><![CDATA[rgb(255, 255, 255) !important]]></item>
+													<item id="float"><![CDATA[]]></item>
+													<item id="margin"><![CDATA[]]></item>
+													<item id="font-size"><![CDATA[]]></item>
+													<item id="className"><![CDATA[titletext]]></item>
+													<item id="src"><![CDATA[]]></item>
+												</item>
+											</item>
+										</item>
+									</item>
+								</item>
+							</item>
+						</item>
+					</item>
+					<item id="frame`frameH3Yvq2">
+						<item id="attr">
+							<item id="name"><![CDATA[frameH3Yvq2]]></item>
+							<item id="moveable"><![CDATA[true]]></item>
+							<item id="className"><![CDATA[ frame move-span cl frame-1-1]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+						<item id="column`frameH3Yvq2_left">
+							<item id="attr">
+								<item id="name"><![CDATA[frameH3Yvq2_left]]></item>
+								<item id="className"><![CDATA[column frame-1-1-l]]></item>
+							</item>
+							<item id="block`portal_block_254">
+								<item id="attr">
+									<item id="name"><![CDATA[portal_block_254]]></item>
+									<item id="className"><![CDATA[block move-span]]></item>
+									<item id="titles">
+										<item id="className">
+											<item id="0"><![CDATA[blocktitle title]]></item>
+										</item>
+										<item id="style"><![CDATA[]]></item>
+										<item id="first">
+											<item id="text"><![CDATA[飞机热门]]></item>
+											<item id="href"><![CDATA[]]></item>
+											<item id="color"><![CDATA[]]></item>
+											<item id="float"><![CDATA[]]></item>
+											<item id="margin"><![CDATA[]]></item>
+											<item id="font-size"><![CDATA[14]]></item>
+											<item id="className"><![CDATA[titletext]]></item>
+											<item id="src"><![CDATA[]]></item>
+										</item>
+									</item>
+								</item>
+							</item>
+						</item>
+						<item id="column`frameH3Yvq2_center">
+							<item id="attr">
+								<item id="name"><![CDATA[frameH3Yvq2_center]]></item>
+								<item id="className"><![CDATA[column frame-1-1-r]]></item>
+							</item>
+							<item id="block`portal_block_255">
+								<item id="attr">
+									<item id="name"><![CDATA[portal_block_255]]></item>
+									<item id="className"><![CDATA[cl_block_bm block move-span]]></item>
+									<item id="titles">
+										<item id="className">
+											<item id="0"><![CDATA[blocktitle title]]></item>
+										</item>
+										<item id="style"><![CDATA[]]></item>
+										<item id="first">
+											<item id="text"><![CDATA[FTP搜索]]></item>
+											<item id="href"><![CDATA[http://my.nuaa.edu.cn/forum.php?mod=forumdisplay&fid=206]]></item>
+											<item id="color"><![CDATA[rgb(255, 255, 255) !important]]></item>
+											<item id="float"><![CDATA[]]></item>
+											<item id="margin"><![CDATA[]]></item>
+											<item id="font-size"><![CDATA[]]></item>
+											<item id="className"><![CDATA[titletext]]></item>
+											<item id="src"><![CDATA[]]></item>
+										</item>
+									</item>
+								</item>
+							</item>
+							<item id="block`portal_block_256">
+								<item id="attr">
+									<item id="name"><![CDATA[portal_block_256]]></item>
+									<item id="className"><![CDATA[cl_block_bm block move-span]]></item>
+									<item id="titles">
+										<item id="className">
+											<item id="0"><![CDATA[blocktitle title]]></item>
+										</item>
+										<item id="style"><![CDATA[]]></item>
+										<item id="first">
+											<item id="text"><![CDATA[文件中转站]]></item>
+											<item id="href"><![CDATA[]]></item>
+											<item id="color"><![CDATA[]]></item>
+											<item id="float"><![CDATA[]]></item>
+											<item id="margin"><![CDATA[]]></item>
+											<item id="font-size"><![CDATA[]]></item>
+											<item id="className"><![CDATA[titletext]]></item>
+											<item id="src"><![CDATA[]]></item>
+										</item>
+									</item>
+								</item>
+							</item>
+						</item>
+					</item>
+				</item>
+			</item>
+			<item id="frame`frameXxnXax">
+				<item id="attr">
+					<item id="name"><![CDATA[frameXxnXax]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[cl_frame_bm frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameXxnXax_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameXxnXax_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+				</item>
+			</item>
+			<item id="frame`framePbvySo">
+				<item id="attr">
+					<item id="name"><![CDATA[framePbvySo]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[ frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`framePbvySo_left">
+					<item id="attr">
+						<item id="name"><![CDATA[framePbvySo_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
 					</item>
 				</item>
 			</item>
@@ -146,109 +428,16 @@
 	</item>
 	<item id="blockdata">
 		<item id="block">
-			<item id="264">
-				<item id="bid"><![CDATA[264]]></item>
-				<item id="blockclass"><![CDATA[forum_thread]]></item>
-				<item id="blocktype"><![CDATA[0]]></item>
-				<item id="name"><![CDATA[最新公告]]></item>
-				<item id="title"><![CDATA[<div style="background-repeat: repeat repeat; " class="blocktitle title"><span style="float:;margin-left:px;font-size:14px;color:#FFFFFF !important;" class="titletext">最新公告</span></div>]]></item>
-				<item id="classname"><![CDATA[]]></item>
-				<item id="summary"><![CDATA[]]></item>
-				<item id="uid"><![CDATA[171410]]></item>
-				<item id="username"><![CDATA[忆一段往事]]></item>
-				<item id="styleid"><![CDATA[0]]></item>
-				<item id="blockstyle">
-					<item id="name"><![CDATA[]]></item>
-					<item id="blockclass"><![CDATA[forum_thread]]></item>
-					<item id="makethumb"><![CDATA[0]]></item>
-					<item id="getpic"><![CDATA[0]]></item>
-					<item id="getsummary"><![CDATA[1]]></item>
-					<item id="settarget"><![CDATA[1]]></item>
-					<item id="moreurl"><![CDATA[0]]></item>
-					<item id="fields">
-						<item id="0"><![CDATA[url]]></item>
-						<item id="1"><![CDATA[title]]></item>
-						<item id="2"><![CDATA[summary]]></item>
-					</item>
-					<item id="template">
-						<item id="raw"><![CDATA[<div class="module cl xld">
-[loop]
-<dl class="cl">
-	<dt><a href="{url}" title="{title}"{target}>{title}</a></dt>
-	<dd>{summary}</dd>
-</dl>
-[/loop]
-</div>]]></item>
-						<item id="footer"><![CDATA[]]></item>
-						<item id="header"><![CDATA[]]></item>
-						<item id="indexplus"><![CDATA[
-						]]></item>
-						<item id="index"><![CDATA[
-						]]></item>
-						<item id="orderplus"><![CDATA[
-						]]></item>
-						<item id="order"><![CDATA[
-						]]></item>
-						<item id="loopplus"><![CDATA[
-						]]></item>
-						<item id="loop"><![CDATA[<dl class="cl">
-	<dt><a href="{url}" title="{title}"{target}>{title}</a></dt>
-	<dd>{summary}</dd>
-</dl>]]></item>
-					</item>
-					<item id="hash"><![CDATA[1107d2bd]]></item>
-				</item>
-				<item id="picwidth"><![CDATA[0]]></item>
-				<item id="picheight"><![CDATA[0]]></item>
-				<item id="target"><![CDATA[blank]]></item>
-				<item id="dateformat"><![CDATA[Y-m-d]]></item>
-				<item id="dateuformat"><![CDATA[0]]></item>
-				<item id="script"><![CDATA[thread]]></item>
-				<item id="param">
-					<item id="tids"><![CDATA[]]></item>
-					<item id="uids"><![CDATA[]]></item>
-					<item id="keyword"><![CDATA[]]></item>
-					<item id="tagkeyword"><![CDATA[]]></item>
-					<item id="fids">
-						<item id="0"><![CDATA[0]]></item>
-					</item>
-					<item id="typeids"><![CDATA[]]></item>
-					<item id="recommend"><![CDATA[0]]></item>
-					<item id="special">
-						<item id="0"><![CDATA[0]]></item>
-					</item>
-					<item id="viewmod"><![CDATA[0]]></item>
-					<item id="rewardstatus"><![CDATA[0]]></item>
-					<item id="picrequired"><![CDATA[0]]></item>
-					<item id="orderby"><![CDATA[lastpost]]></item>
-					<item id="postdateline"><![CDATA[0]]></item>
-					<item id="lastpost"><![CDATA[0]]></item>
-					<item id="highlight"><![CDATA[0]]></item>
-					<item id="titlelength"><![CDATA[40]]></item>
-					<item id="summarylength"><![CDATA[80]]></item>
-					<item id="startrow"><![CDATA[0]]></item>
-					<item id="items"><![CDATA[3]]></item>
-					<item id="bannedids"><![CDATA[239445,236815,234399,233220,235242]]></item>
-				</item>
-				<item id="shownum"><![CDATA[3]]></item>
-				<item id="cachetime"><![CDATA[3600]]></item>
-				<item id="cachetimerange"><![CDATA[]]></item>
-				<item id="punctualupdate"><![CDATA[0]]></item>
-				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1373963548]]></item>
-				<item id="notinherited"><![CDATA[0]]></item>
-				<item id="isblank"><![CDATA[1]]></item>
-			</item>
-			<item id="265">
-				<item id="bid"><![CDATA[265]]></item>
+			<item id="226">
+				<item id="bid"><![CDATA[226]]></item>
 				<item id="blockclass"><![CDATA[other_otherfriendlink]]></item>
 				<item id="blocktype"><![CDATA[0]]></item>
 				<item id="name"><![CDATA[校内链接]]></item>
 				<item id="title"><![CDATA[<div style="background-repeat: repeat;" class="blocktitle title"><span style="float:;margin-left:px;font-size:14px;color:#FFFFFF !important;" class="titletext">校内实用链接</span></div>]]></item>
 				<item id="classname"><![CDATA[]]></item>
 				<item id="summary"><![CDATA[]]></item>
-				<item id="uid"><![CDATA[171410]]></item>
-				<item id="username"><![CDATA[忆一段往事]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
 				<item id="styleid"><![CDATA[0]]></item>
 				<item id="blockstyle">
 					<item id="name"><![CDATA[]]></item>
@@ -258,8 +447,8 @@
 					<item id="getsummary"><![CDATA[0]]></item>
 					<item id="settarget"><![CDATA[0]]></item>
 					<item id="moreurl"><![CDATA[0]]></item>
-					<item id="fields"><![CDATA[
-					]]></item>
+					<item id="fields">
+					</item>
 					<item id="template">
 						<item id="raw"><![CDATA[<style type="text/css">
 .friend_link{
@@ -273,7 +462,7 @@ width:154px;
 font-size:14px;
 }
 .friend_link a{
-color:#9b6547;
+color:#333333;
 font-wieght:800;
 text-decoration:none;
 }
@@ -283,7 +472,7 @@ text-decoration:underline;
 }
 </style>
 <ul class="friend_link cl">
-	<li style="color:#FFA200;width:90px;margin:3px 10px;font-weight: bold;">纸飞机出品：</li>
+	<li style="color:#0033FF;width:90px;margin:3px 10px;font-weight: bold;">纸飞机出品</li>
 	<li style="width:200px">
 		<a href="http://my.nuaa.edu.cn/xiaohongmao/" target="_blank" title="小红帽" style="color:red;font-weight: bold;">志愿服务管理认证平台(小红帽)</a>
 	</li>
@@ -295,54 +484,58 @@ text-decoration:underline;
 	</li>
 	
        <li>
-		<a href="http://my.nuaa.edu.cn/thread-241569-1-1.html" target="_blank"><font style="color:red;font-weight:bold">吃货导航</font></a>
+		<a href="http://my.nuaa.edu.cn/forum.php?mod=viewthread&tid=241569" target="_blank" style="color:red;font-weight: bold;">吃货导航</a>
 	</li>
 <li>
-		<a href="http://my.nuaa.edu.cn/plugin.php?id=apply:apply" target="_blank"><font style="color:red;font-weight:bold">"午后阳光"读书交流会</font></a>
+		<a href="http://my.nuaa.edu.cn/plugin.php?id=apply:apply" target="_blank">"午后阳光"读书交流会</a>
 	</li>
 </ul>
 <ul class="friend_link cl">
-	<li style="color:#FFA200;width:90px;margin:3px 10px;font-weight: bold;">校内实用：</li>
+	<li style="color:#0033FF;width:90px;margin:3px 10px;font-weight: bold;">常用网站</li>
 	<div style="float:left;hight:15px;width:820px">
 	<li style="width:200px">
-		<a href="http://211.65.99.100:81/login.php" target="_blank">英语约课（仅电脑内网）</a>
+		<a href="http://ded.nuaa.edu.cn"target="_blank">教务处</a>
 	</li>
 	<li>
-		<a href="http://lab.nuaa.edu.cn/main/" target="_blank">物理实验预约</a>
+		<a href="http://lib.nuaa.edu.cn" target="_blank">图书馆</a>
 	</li>
 	<li>
-		<a href="http://ded.nuaa.edu.cn/JwSys/Manager/Module/Elective/Student/Default.aspx" target="_blank">教务处选课系统</a>
+		<a href="http://net.nuaa.edu.cn" target="_blank">信息中心</a>
 	</li>
 	<li>
 		<a href="http://student.nuaa.edu.cn/login.aspx" target="_blank">奥兰系统（学生版）</a>
 	</li>
 	<li>
-		<a href="http://net.nuaa.edu.cn" target="_blank">信息中心</a>
+		<a href="http://www.graduate.nuaa.edu.cn/" target="_blank">研究生院</a>
 	</li>
+</ul>
+<ul class="friend_link cl">
+	<li style="color:#0033FF;width:90px;margin:3px 10px;font-weight: bold;">实用网址</li>
+	<div style="float:left;hight:15px;width:820px">
 	<li style="width:200px">
-		<a href="http://lib.nuaa.edu.cn" target="_blank">图书馆</a>
+		<a href="http://211.65.99.100:81/login.php" target="_blank">英语约课（仅内网）</a>
 	</li>
 	<li>
-		<a href="http://hqjt.nuaa.edu.cn" target="_blank">后勤集团</a>
+		<a href="http://lab.nuaa.edu.cn/main/" target="_blank">物理实验预约</a>
+	</li>
+	<li>
+		<a href="http://ded.nuaa.edu.cn/JwSys/Manager/Module/Elective/Student/Default.aspx" target="_blank">选课系统</a>
 	</li>
 	<li>
 		<a href="http://mail.nuaa.edu.cn" target="_blank">南航邮箱</a>
 	</li>
 	<li>
-		<a href="http://jncc.nuaa.edu.cn/" target="_blank">江宁计算中心</a>
-	</li>
-	<li>
-		<a href="http://wp.nuaa.edu.cn/" target="_blank">教学评估系统（网评）</a>
+		<a href="http://nwp.nuaa.edu.cn/" target="_blank">新教学评估系统</a>
 	</li>
 	<div>
 </ul>
 <ul class="friend_link cl">
-	<li style="color:#FFA200;width:90px;margin:3px 10px;font-weight: bold;">校内查询：</li>
+	<li style="color:#0033FF;width:90px;margin:3px 10px;font-weight: bold;">校内查询</li>
 	<li style="width:200px">
 		<a href="http://ded.nuaa.edu.cn/NetEa/CourseSchedule/Service/SearchRoomTime.aspx" target="_blank">空闲自习教室查询</a>
 	</li>
 	<li>
-		<a href="http://ded.nuaa.edu.cn/JwSys/Manager/Module/DedSys/Schedule/Show/Schedule.aspx">课表查询</a>
+		<a href="http://ded.nuaa.edu.cn/JwSys/Manager/Module/DedSys/Schedule/Show/PersonalSchedule.aspx" target="_blank">课表查询</a>
 	</li>
 	<li>
 		<a href="http://ded.nuaa.edu.cn/Kb/Other/index.htm" target="_blank">选修课课表查询</a>
@@ -351,25 +544,25 @@ text-decoration:underline;
 		<a href="http://sport.nuaa.edu.cn/exam/xuesheng.asp" target="_blank">大学体育成绩查询</a>
 	</li>
 	<li>
-		<a href="http://my.nuaa.edu.cn/forum.php?mod=viewthread&tid=206178">校车时刻表</a>
+		<a href="http://hqjt.nuaa.edu.cn/Navigation/index.asp?id=19">校车时刻表</a>
 	</li>
 </ul>]]></item>
 						<item id="footer"><![CDATA[]]></item>
 						<item id="header"><![CDATA[]]></item>
-						<item id="indexplus"><![CDATA[
-						]]></item>
-						<item id="index"><![CDATA[
-						]]></item>
-						<item id="orderplus"><![CDATA[
-						]]></item>
-						<item id="order"><![CDATA[
-						]]></item>
-						<item id="loopplus"><![CDATA[
-						]]></item>
-						<item id="loop"><![CDATA[
-						]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop">
+						</item>
 					</item>
-					<item id="hash"><![CDATA[03bf41b4]]></item>
+					<item id="hash"><![CDATA[1cdabe45]]></item>
 				</item>
 				<item id="picwidth"><![CDATA[0]]></item>
 				<item id="picheight"><![CDATA[0]]></item>
@@ -393,20 +586,20 @@ text-decoration:underline;
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1373963548]]></item>
+				<item id="dateline"><![CDATA[1427417804]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
-			<item id="266">
-				<item id="bid"><![CDATA[266]]></item>
+			<item id="252">
+				<item id="bid"><![CDATA[252]]></item>
 				<item id="blockclass"><![CDATA[forum_thread]]></item>
 				<item id="blocktype"><![CDATA[0]]></item>
 				<item id="name"><![CDATA[首页幻灯]]></item>
 				<item id="title"><![CDATA[]]></item>
-				<item id="classname"><![CDATA[xbs xbs_7]]></item>
+				<item id="classname"><![CDATA[]]></item>
 				<item id="summary"><![CDATA[]]></item>
-				<item id="uid"><![CDATA[171410]]></item>
-				<item id="username"><![CDATA[忆一段往事]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
 				<item id="styleid"><![CDATA[0]]></item>
 				<item id="blockstyle">
 					<item id="name"><![CDATA[]]></item>
@@ -434,16 +627,16 @@ runslideshow();
 </script>]]></item>
 						<item id="footer"><![CDATA[]]></item>
 						<item id="header"><![CDATA[]]></item>
-						<item id="indexplus"><![CDATA[
-						]]></item>
-						<item id="index"><![CDATA[
-						]]></item>
-						<item id="orderplus"><![CDATA[
-						]]></item>
-						<item id="order"><![CDATA[
-						]]></item>
-						<item id="loopplus"><![CDATA[
-						]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
 						<item id="loop"><![CDATA[<li style="width: {picwidth}px; height: {picheight}px;"><a href="{url}"{target}><img src="{pic}" width="{picwidth}" height="{picheight}" /></a><span class="title">{title}</span></li>]]></item>
 					</item>
 					<item id="hash"><![CDATA[cba1f109]]></item>
@@ -474,28 +667,28 @@ runslideshow();
 					<item id="titlelength"><![CDATA[40]]></item>
 					<item id="summarylength"><![CDATA[80]]></item>
 					<item id="startrow"><![CDATA[0]]></item>
-					<item id="items"><![CDATA[3]]></item>
+					<item id="items"><![CDATA[8]]></item>
 					<item id="bannedids"><![CDATA[42739,227223,226607,225018,230370,203306,223108,219043,213392,221794,201501]]></item>
 				</item>
-				<item id="shownum"><![CDATA[3]]></item>
+				<item id="shownum"><![CDATA[8]]></item>
 				<item id="cachetime"><![CDATA[3600]]></item>
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1373963918]]></item>
+				<item id="dateline"><![CDATA[1427416833]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[1]]></item>
 			</item>
-			<item id="267">
-				<item id="bid"><![CDATA[267]]></item>
+			<item id="254">
+				<item id="bid"><![CDATA[254]]></item>
 				<item id="blockclass"><![CDATA[forum_thread]]></item>
 				<item id="blocktype"><![CDATA[0]]></item>
 				<item id="name"><![CDATA[飞机热点]]></item>
 				<item id="title"><![CDATA[<div class="blocktitle title" style=""><span style="float:;margin-left:px;font-size:14px;color: !important;" class="titletext">飞机热门</span></div>]]></item>
 				<item id="classname"><![CDATA[]]></item>
 				<item id="summary"><![CDATA[]]></item>
-				<item id="uid"><![CDATA[171410]]></item>
-				<item id="username"><![CDATA[忆一段往事]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
 				<item id="styleid"><![CDATA[0]]></item>
 				<item id="blockstyle">
 					<item id="name"><![CDATA[]]></item>
@@ -833,7 +1026,965 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1373963547]]></item>
+				<item id="dateline"><![CDATA[1427412772]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="255">
+				<item id="bid"><![CDATA[255]]></item>
+				<item id="blockclass"><![CDATA[forum_thread]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[FTP搜索]]></item>
+				<item id="title"><![CDATA[<div class="blocktitle title"><span class="titletext" style="float:;margin-left:px;font-size:"><a href="forum.php?mod=forumdisplay&amp;fid=206" target="_blank" style="color:#FFFFFF !important;">FTP搜索</a></span></div>]]></item>
+				<item id="classname"><![CDATA[cl_block_bm]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[forum_thread]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[0]]></item>
+					<item id="getsummary"><![CDATA[0]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[url]]></item>
+						<item id="1"><![CDATA[title]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[<div class="module cl xl xl1">
+<ul>
+<form action="plugin.php?id=ftp:ftp" method="post" name="qf0" style="margin:10px 0 0 0 ;">
+										<input type="text" name="String" value="" style="height:25px; width: 280px; font-size:18px;" /> 
+										<input type="submit" style="height:30px;width: 80px;font-size:14px;font-weight:bold;" value="FTP搜索"/> 
+<a href="http://my.nuaa.edu.cn/forum.php?mod=forumdisplay&fid=206" target="_blank">  进入ftp讨论区</a>									</form>
+[loop]
+<li style="list-style-type:none !important;background:transparent;"><a href="{url}" title="{title}"{target}>{title}</a></li>
+[/loop]
+</ul>
+</div>]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[<li style="list-style-type:none !important;background:transparent;"><a href="{url}" title="{title}"{target}>{title}</a></li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[763dbf15]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[thread]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="uids"><![CDATA[]]></item>
+					<item id="keyword"><![CDATA[]]></item>
+					<item id="tagkeyword"><![CDATA[]]></item>
+					<item id="typeids"><![CDATA[308]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="special">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="viewmod"><![CDATA[0]]></item>
+					<item id="rewardstatus"><![CDATA[0]]></item>
+					<item id="picrequired"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[lastpost]]></item>
+					<item id="postdateline"><![CDATA[0]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="highlight"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[40]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[6]]></item>
+				</item>
+				<item id="shownum"><![CDATA[6]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1427412733]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="256">
+				<item id="bid"><![CDATA[256]]></item>
+				<item id="blockclass"><![CDATA[forum_thread]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[文件中转站]]></item>
+				<item id="title"><![CDATA[<div class="blocktitle title"><span class="titletext" style="float:;margin-left:px;font-size:;color: !important;">文件中转站</span></div>]]></item>
+				<item id="classname"><![CDATA[cl_block_bm]]></item>
+				<item id="summary"><![CDATA[<li style="list-style-type:none;margin:10px 0 0 0;">
+&nbsp&nbsp<a href="http://my.nuaa.edu.cn/forum.php?mod=forumdisplay&fid=127" target="_blank">开始文件中转</a>
+</li>]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[forum_thread]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[0]]></item>
+					<item id="getsummary"><![CDATA[0]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[url]]></item>
+						<item id="1"><![CDATA[title]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[<div class="module cl xl xl1">
+<ul>
+[loop]
+<li><a href="{url}" title="{title}"{target}>{title}</a></li>
+[/loop]
+</ul>
+</div>]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[<li><a href="{url}" title="{title}"{target}>{title}</a></li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[079cd140]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[threadnew]]></item>
+				<item id="param">
+					<item id="special">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="viewmod"><![CDATA[0]]></item>
+					<item id="rewardstatus"><![CDATA[0]]></item>
+					<item id="picrequired"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[lastpost]]></item>
+					<item id="postdateline"><![CDATA[0]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[40]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1427412486]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[1]]></item>
+			</item>
+			<item id="257">
+				<item id="bid"><![CDATA[257]]></item>
+				<item id="blockclass"><![CDATA[forum_thread]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[教务信息]]></item>
+				<item id="title"><![CDATA[<div class="blocktitle title"><span class="titletext" style="float:;margin-left:px;font-size:"><a href="forum.php?mod=forumdisplay&amp;fid=208" target="_blank" style="color:#FFFFFF !important;">教务信息</a></span></div>]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[forum_thread]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[0]]></item>
+					<item id="getsummary"><![CDATA[0]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[dateline]]></item>
+						<item id="1"><![CDATA[url]]></item>
+						<item id="2"><![CDATA[title]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[<div class="module cl xl xl1">
+<ul>
+[loop]
+<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>
+[/loop]
+<li></li>
+</ul>
+</div>]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[d6b4a7d8]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[thread]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="uids"><![CDATA[]]></item>
+					<item id="keyword"><![CDATA[]]></item>
+					<item id="tagkeyword"><![CDATA[]]></item>
+					<item id="fids">
+						<item id="0"><![CDATA[208]]></item>
+					</item>
+					<item id="typeids"><![CDATA[382]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="special">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="viewmod"><![CDATA[0]]></item>
+					<item id="rewardstatus"><![CDATA[0]]></item>
+					<item id="picrequired"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="postdateline"><![CDATA[0]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="highlight"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[60]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[120]]></item>
+				<item id="cachetimerange"><![CDATA[0,0]]></item>
+				<item id="punctualupdate"><![CDATA[1]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1427452136]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="258">
+				<item id="bid"><![CDATA[258]]></item>
+				<item id="blockclass"><![CDATA[forum_thread]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[竞赛信息]]></item>
+				<item id="title"><![CDATA[<div class="blocktitle title"><span class="titletext" style="float:;margin-left:px;font-size:"><a href="forum.php?mod=forumdisplay&amp;fid=769" target="_blank" style="color:#FFFFFF !important;">竞赛通知</a></span></div>]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[forum_thread]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[0]]></item>
+					<item id="getsummary"><![CDATA[0]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[dateline]]></item>
+						<item id="1"><![CDATA[url]]></item>
+						<item id="2"><![CDATA[title]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[<div class="module cl xl xl1">
+<ul>
+[loop]
+<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>
+[/loop]
+<li style="float:right;">
+<a href="http://my.nuaa.edu.cn/forum.php?mod=post&action=newthread&fid=769">我要发帖</a>
+</li>
+</ul>
+</div>]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[2c81ddbc]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[thread]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="uids"><![CDATA[]]></item>
+					<item id="keyword"><![CDATA[]]></item>
+					<item id="tagkeyword"><![CDATA[]]></item>
+					<item id="typeids"><![CDATA[291,292]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="special">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="viewmod"><![CDATA[0]]></item>
+					<item id="rewardstatus"><![CDATA[0]]></item>
+					<item id="picrequired"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="postdateline"><![CDATA[0]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="highlight"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[60]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[120]]></item>
+				<item id="cachetimerange"><![CDATA[0,0]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1427415889]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="259">
+				<item id="bid"><![CDATA[259]]></item>
+				<item id="blockclass"><![CDATA[forum_thread]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[校内招聘]]></item>
+				<item id="title"><![CDATA[<div class="blocktitle title"><span class="titletext" style="float:;margin-left:px;font-size:"><a href="forum.php?mod=forumdisplay&amp;fid=169" target="_blank" style="color:#FFFFFF !important;">校内招聘</a></span></div>]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[forum_thread]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[0]]></item>
+					<item id="getsummary"><![CDATA[0]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[dateline]]></item>
+						<item id="1"><![CDATA[url]]></item>
+						<item id="2"><![CDATA[title]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[<div class="module cl xl xl1">
+<ul>
+[loop]
+<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>
+[/loop]
+<li style="float:right;">
+</li>
+</ul>
+</div>]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[7b8aa5cb]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[thread]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="uids"><![CDATA[]]></item>
+					<item id="keyword"><![CDATA[]]></item>
+					<item id="tagkeyword"><![CDATA[]]></item>
+					<item id="typeids"><![CDATA[44]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="special">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="viewmod"><![CDATA[0]]></item>
+					<item id="rewardstatus"><![CDATA[0]]></item>
+					<item id="picrequired"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="postdateline"><![CDATA[0]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="highlight"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[60]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[120]]></item>
+				<item id="cachetimerange"><![CDATA[0,0]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1427416331]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="260">
+				<item id="bid"><![CDATA[260]]></item>
+				<item id="blockclass"><![CDATA[forum_thread]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[其他招聘]]></item>
+				<item id="title"><![CDATA[<div class="blocktitle title"><span class="titletext" style="float:;margin-left:px;font-size:"><a href="forum.php?mod=forumdisplay&amp;fid=169" target="_blank" style="color:#FFFFFF !important;">其他招聘</a></span></div>]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[forum_thread]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[0]]></item>
+					<item id="getsummary"><![CDATA[0]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[dateline]]></item>
+						<item id="1"><![CDATA[url]]></item>
+						<item id="2"><![CDATA[title]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[<div class="module cl xl xl1">
+<ul>
+[loop]
+<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>
+[/loop]
+<li style="float:right;">
+<a href="http://my.nuaa.edu.cn/forum.php?mod=post&action=newthread&fid=169">我要发帖</a>
+</li>
+</ul>
+</div>]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[bd6595e7]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[thread]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="uids"><![CDATA[]]></item>
+					<item id="keyword"><![CDATA[]]></item>
+					<item id="tagkeyword"><![CDATA[]]></item>
+					<item id="typeids"><![CDATA[45,46]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="special">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="viewmod"><![CDATA[0]]></item>
+					<item id="rewardstatus"><![CDATA[0]]></item>
+					<item id="picrequired"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="postdateline"><![CDATA[0]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="highlight"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[60]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[120]]></item>
+				<item id="cachetimerange"><![CDATA[0,23]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1427452190]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="261">
+				<item id="bid"><![CDATA[261]]></item>
+				<item id="blockclass"><![CDATA[forum_thread]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[兼职信息]]></item>
+				<item id="title"><![CDATA[<div class="blocktitle title"><span class="titletext" style="float:;margin-left:px;font-size:"><a href="forum.php?mod=forumdisplay&amp;fid=169" target="_blank" style="color:#FFFFFF !important;">兼职信息</a></span></div>]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[forum_thread]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[0]]></item>
+					<item id="getsummary"><![CDATA[0]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[dateline]]></item>
+						<item id="1"><![CDATA[url]]></item>
+						<item id="2"><![CDATA[title]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[<div class="module cl xl xl1">
+<ul>
+[loop]
+<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>
+[/loop]
+<li style="float:right;">
+<a href="http://my.nuaa.edu.cn/forum.php?mod=post&action=newthread&fid=169">我要发帖</a>
+</li>
+</ul>
+</div>]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[bd6595e7]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[thread]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="uids"><![CDATA[]]></item>
+					<item id="keyword"><![CDATA[]]></item>
+					<item id="tagkeyword"><![CDATA[]]></item>
+					<item id="typeids"><![CDATA[47]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="special">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="viewmod"><![CDATA[0]]></item>
+					<item id="rewardstatus"><![CDATA[0]]></item>
+					<item id="picrequired"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="postdateline"><![CDATA[0]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="highlight"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[60]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[120]]></item>
+				<item id="cachetimerange"><![CDATA[0,23]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1427452184]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="262">
+				<item id="bid"><![CDATA[262]]></item>
+				<item id="blockclass"><![CDATA[forum_thread]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[生活求助]]></item>
+				<item id="title"><![CDATA[<div class="blocktitle title"><span class="titletext" style="float:;margin-left:px;font-size:"><a href="forum.php?mod=forumdisplay&amp;fid=2" target="_blank" style="color:#FFFFFF !important;">生活求助</a></span></div>]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[forum_thread]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[0]]></item>
+					<item id="getsummary"><![CDATA[0]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[dateline]]></item>
+						<item id="1"><![CDATA[url]]></item>
+						<item id="2"><![CDATA[title]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[<div class="module cl xl xl1">
+<ul>
+[loop]
+<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>
+[/loop]
+<li style="float:right;">
+<a href="http://my.nuaa.edu.cn/forum.php?mod=post&action=newthread&fid=2">我要发帖</a>
+</li>
+</ul>
+</div>]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[1a0528d3]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[thread]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="uids"><![CDATA[]]></item>
+					<item id="keyword"><![CDATA[]]></item>
+					<item id="tagkeyword"><![CDATA[]]></item>
+					<item id="typeids"><![CDATA[270,386]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="special">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="viewmod"><![CDATA[0]]></item>
+					<item id="rewardstatus"><![CDATA[0]]></item>
+					<item id="picrequired"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="postdateline"><![CDATA[0]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="highlight"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[60]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[120]]></item>
+				<item id="cachetimerange"><![CDATA[0,23]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1427452136]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="263">
+				<item id="bid"><![CDATA[263]]></item>
+				<item id="blockclass"><![CDATA[forum_thread]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[学习求助]]></item>
+				<item id="title"><![CDATA[<div class="blocktitle title"><span class="titletext" style="float:;margin-left:px;font-size:"><a href="forum.php?mod=forumdisplay&amp;fid=750" target="_blank" style="color:#FFFFFF !important;">学习求助</a></span></div>]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[forum_thread]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[0]]></item>
+					<item id="getsummary"><![CDATA[0]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[dateline]]></item>
+						<item id="1"><![CDATA[url]]></item>
+						<item id="2"><![CDATA[title]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[<div class="module cl xl xl1">
+<ul>
+[loop]
+<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>
+[/loop]
+<li style="float:right;">
+<a href="http://my.nuaa.edu.cn/forum.php?mod=post&action=newthread&fid=2">我要发帖</a>
+</li>
+</ul>
+</div>]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[1a0528d3]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[thread]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="uids"><![CDATA[]]></item>
+					<item id="keyword"><![CDATA[]]></item>
+					<item id="tagkeyword"><![CDATA[]]></item>
+					<item id="typeids"><![CDATA[380]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="special">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="viewmod"><![CDATA[0]]></item>
+					<item id="rewardstatus"><![CDATA[0]]></item>
+					<item id="picrequired"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="postdateline"><![CDATA[0]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="highlight"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[60]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[120]]></item>
+				<item id="cachetimerange"><![CDATA[0,23]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1427452178]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="265">
+				<item id="bid"><![CDATA[265]]></item>
+				<item id="blockclass"><![CDATA[forum_thread]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[活动召集]]></item>
+				<item id="title"><![CDATA[<div class="blocktitle title"><span class="titletext" style="float:;margin-left:px;font-size:"><a href="forum.php?mod=forumdisplay&amp;fid=2" target="_blank" style="color:#FFFFFF !important;">活动召集</a></span></div>]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[forum_thread]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[0]]></item>
+					<item id="getsummary"><![CDATA[0]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[dateline]]></item>
+						<item id="1"><![CDATA[url]]></item>
+						<item id="2"><![CDATA[title]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[<div class="module cl xl xl1">
+<ul>
+[loop]
+<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>
+[/loop]
+<li style="float:right;">
+<a href="http://my.nuaa.edu.cn/forum.php?mod=post&action=newthread&fid=2">我要发帖</a>
+</li>
+</ul>
+</div>]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[1a0528d3]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[thread]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="uids"><![CDATA[]]></item>
+					<item id="keyword"><![CDATA[]]></item>
+					<item id="tagkeyword"><![CDATA[]]></item>
+					<item id="typeids"><![CDATA[271]]></item>
+					<item id="stick">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="special">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="viewmod"><![CDATA[0]]></item>
+					<item id="rewardstatus"><![CDATA[0]]></item>
+					<item id="picrequired"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="postdateline"><![CDATA[0]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="highlight"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[60]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[120]]></item>
+				<item id="cachetimerange"><![CDATA[0,23]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1427452200]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="271">
+				<item id="bid"><![CDATA[271]]></item>
+				<item id="blockclass"><![CDATA[forum_thread]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[校园新闻]]></item>
+				<item id="title"><![CDATA[<div class="blocktitle title"><span class="titletext" style="float:;margin-left:px;font-size:;color: !important;">校园新闻</span></div>]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[162551]]></item>
+				<item id="username"><![CDATA[Click_04]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[forum_thread]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[0]]></item>
+					<item id="getsummary"><![CDATA[0]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[dateline]]></item>
+						<item id="1"><![CDATA[url]]></item>
+						<item id="2"><![CDATA[title]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[<div class="module cl xl xl1">
+<ul>
+[loop]
+<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>
+[/loop]
+<li style="float:right;">
+<a href="http://my.nuaa.edu.cn/forum.php?mod=post&action=newthread&fid=15">我要发帖</a>
+</li>
+</ul>
+</div>]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[<li><em>{dateline}</em><a href="{url}" title="{title}"{target}>{title}</a></li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[b3d3343b]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[threadnew]]></item>
+				<item id="param">
+					<item id="fids">
+						<item id="0"><![CDATA[15]]></item>
+					</item>
+					<item id="special">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="viewmod"><![CDATA[0]]></item>
+					<item id="rewardstatus"><![CDATA[0]]></item>
+					<item id="picrequired"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[lastpost]]></item>
+					<item id="postdateline"><![CDATA[0]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[40]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1427412751]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
