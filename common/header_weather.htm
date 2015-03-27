@@ -8,9 +8,7 @@
     			<td class="wt_icon_td_hd"></td>
     			<td class="wt_txt" style="font-size:12px !important;line-height:39px !important;">
 			    	<span><b>【天气】</b></span>
-					<span>
-						<a target="_blank" style="color:#333" href="http://www.weather.com.cn/weather/101190101.shtml" title="数据由中国天气网提供">{$weather_info["city"]}，{$weather_info["temp"]}℃，{$weather_info["WD"]}{$weather_info["WS"]}，更新于{$weather_info["time"]}</a>
-					</span>
+					<span title="数据来源：百度">{$weather_info["currentCity"]}，{$weather_info["weather_data"][0]["weather"]}，温度：{$weather_info["weather_data"][0]["temperature"]}，PM2.5：{$weather_info["pm25"]}</span>
 				</td>
 				<td class="wt_icon_td_ft"></td>
 			</tr>
