@@ -591,3 +591,8 @@ h1[id] {
     padding-top: 16px;
     border-top: 1px solid #eee;
 }
+
+.t_f img{
+    height: auto !important;
+    max-width: 100%;
+}
