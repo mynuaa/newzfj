@@ -577,7 +577,8 @@ CSS 写作注意事项：
 /* 通用容器，定义页面宽度 */ .wp { margin: 0 auto; width: 960px; } #wp .wp { width: auto; } .wi{width:960px;margin: 0 auto;}
 .shadow{-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, .05);-moz-box-shadow: 0 2px 4px rgba(0,0,0,.05);box-shadow: 0 2px 4px rgba(0, 0, 0, .05);}
 /* 页头 */
-	#toptb {background: url({STYLEIMGDIR}/toptb.png) repeat-x;height: 43px;border: none;width: 100%;position: relative;line-height: 39px;box-sizing:border-box;}
+	#space #toptb{background:#FBFBFB !important;}
+	#toptb {background:url({STYLEIMGDIR}/toptb.png) repeat-x;line-height:39px;border: none;width: 100%;position: relative;box-sizing:border-box;}
 		#toptb #scbar_type_menu{line-height: 16px;}
 		#toptb a {color:#FFF;}
 		#toptb a.showmenu { padding-right: 15px; }
@@ -791,7 +792,7 @@ CSS 写作注意事项：
 	*/
 	.bm, .bn { margin-bottom: 10px; }
 		.bm { border: 1px solid {COMMONBORDER}; background: {WRAPBG}; }
-			.bm_c { padding: 10px; border-left: 1px solid {WRAPBORDERCOLOR};border-right:1px solid {WRAPBORDERCOLOR};}
+			.bm_c { padding: 10px; }
 		.drag {}
 		.bm_h .o { float: right; width: 30px; }
 			.bm_h .o img { float: right; margin-top: 3px; cursor: pointer; }
@@ -1838,3 +1839,5 @@ DIY图片幻灯片未加载时隐藏,模块标识隐藏
 #diynav{margin-left:0 !important;width:60px !important;}
 #diynav>.innerpos{margin-left:0;}
 .t_f img{height:auto !important;max-width:100%;}
+#ct .mn{display:inline-block;}
+
