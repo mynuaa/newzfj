@@ -585,7 +585,7 @@ CSS 写作注意事项：
 		#toptb a.hover { background-color: #FFF; }
 		#toptb .pipe { float: left; display: none; }
 		#space #toptb a{color: #333;}
-		#toptb .pos{float: left;margin-left:-481px;width: 50%;z-index: 1;overflow: hidden;}/*top左右位置*/
+		#toptb .pos{height: 43px;float: left;margin-left:-481px;width: 50%;z-index: 1;overflow: hidden;}/*top左右位置*/
 		#toptb .zdex{z-index: 2;}
 			#toptb .innerpos{margin-left: 481px;}/*内嵌位置修正*/
 				#toptb .innerpos a{width: 56px;color:#FFF;float: left;height: 43px;padding: 0 4px;}
