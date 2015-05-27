@@ -623,16 +623,15 @@ CSS 写作注意事项：
 					#scbar_hot strong, #scbar_hot a { float: left; margin-right: 8px; white-space: nowrap; }
 
 			#nv { overflow: hidden; height: 33px; {MENUBGCODE}; }
-				#nv li { float: left; padding-right: 1px; height: 33px; line-height: 33px; background: url({IMGDIR}/nv_a.png) no-repeat 100% 0; font-weight: 700; font-size: 14px; }
+				#nv li { float: left; padding-right: 1px; height: 33px; line-height: 33px; /*background: url({IMGDIR}/nv_a.png) no-repeat 100% 0;*/ font-weight: 700; font-size: 14px; }
 					.ie_all #nv li { line-height: 36px; }
 					.ie6 #nv li { line-height: 33px; }
-					#nv li a { float: left; padding: 0 15px; height: 33px; }
-						#nv li a { color: {MENUTEXT}; }
+					#nv li a { float: left; padding: 0 15px; height: 33px; color: {MENUTEXT}; transition: background 0.2s; }
 						#nv li span { display: none; }
 					#nv li.a { margin-left: -1px; {MENUHOVERBGCODE}; }
 						#nv li.a a { color: {MENUHOVERTEXT}; }
-						#nv li a:hover { background: url({IMGDIR}/nv_a.png) no-repeat 50% -66px; }
-						#nv li.hover a:hover, #nv li.hover a { background: url({IMGDIR}/nv_a.png) no-repeat 50% -99px; }
+						/*#nv li a:hover { background: url({IMGDIR}/nv_a.png) no-repeat 50% -66px; }
+						#nv li.hover a:hover, #nv li.hover a { background: url({IMGDIR}/nv_a.png) no-repeat 50% -99px; }*/
 			#mu { position: relative; z-index: 1; }
 				.ie6 #mu, .ie7 #mu { line-height: 0; font-size: 0; }
 				#mu ul { background: url({IMGDIR}/mu_bg.png) no-repeat 0 100%; line-height: 22px; z-index: 2; font-size: 12px; }
@@ -671,7 +670,7 @@ CSS 写作注意事项：
 					#userstatus a:hover{background-position:-33px; }
 				#extra_menu{}/*其它选项菜单*/
 					#extra_menu a{color:{MENUBGCOLOR};}/*字体颜色*/
-			#nv li a:hover{background: {MENULIGHTCOLOR};}
+			#nv li a:hover{background: {MENULIGHTCOLOR}; text-decoration:none;}
 				#um, #um a { color: {HEADERTEXT}; }
 				#um p { text-align: right; }
 				.vwmy { padding-left: 16px; background: url({IMGDIR}/user_online.gif) no-repeat 0 2px; }
