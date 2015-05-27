@@ -1833,11 +1833,9 @@ DIY图片幻灯片未加载时隐藏,模块标识隐藏
 		.pgbtn a:active { background: #EEE; border-color: #D0D0D0; box-shadow: none; }
 
 /* 细节修改 by Rex */
-.wechat_bind{background:url(./template/newzfj/images/wechat.png) no-repeat;overflow:hidden;}
-.wechat_bind:hover{background-position-x:33px;}
 .scbar_hot_td{display:none;}
 #diynav{margin-left:0 !important;width:60px !important;}
 #diynav>.innerpos{margin-left:0;}
 .t_f img{height:auto !important;max-width:100%;}
-#ct .mn{display:inline-block;}
-
+#ct .mn{display:block;}
+#myrepeats{display:none;}
