@@ -1553,7 +1553,7 @@ a.progressCancel { display: block; float: right; width: 14px; height: 14px; back
 .swfupload { vertical-align: top; }
 
 /* ------------------------------------------------------------------------ 拖拽及页面 DIY */
-.frame, .frame-tab { margin-bottom: 10px; border: 1px solid {WRAPBORDERCOLOR}; background: {WRAPBG}; }
+.frame, .frame-tab { margin-bottom: 10px; border: 1px solid {WRAPBORDERCOLOR}; }
 	.title { padding: 0 0px; height: 32px; font-size: 14px; font-weight: 700; line-height: 32px; overflow: hidden;border-bottom: 4px solid {MENUBGCOLOR}; }
 		.frame-title, .frametitle, .tab-title { background: #74B8FF;border-bottom: 4px solid {MENUBGCOLOR}!important; }
 
