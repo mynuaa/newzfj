@@ -622,7 +622,7 @@ CSS 写作注意事项：
 				#scbar_hot { padding-left: 8px; height: 45px; overflow: hidden; }
 					#scbar_hot strong, #scbar_hot a { float: left; margin-right: 8px; white-space: nowrap; }
 
-			#nv { position: relative; height: 33px; {MENUBGCODE}; }
+			#nv { position: relative; left: 0 !important; height: 33px; {MENUBGCODE}; }
 				#nv li { float: left; padding-right: 1px; height: 33px; line-height: 33px; /*background: url({IMGDIR}/nv_a.png) no-repeat 100% 0;*/ font-weight: 700; font-size: 14px; }
 					.ie_all #nv li { line-height: 36px; }
 					.ie6 #nv li { line-height: 33px; }
