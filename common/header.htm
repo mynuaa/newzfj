@@ -71,7 +71,10 @@
 					<!--{loop $_G['setting']['topnavs'][1] $nav}-->
 						<!--{if $nav['available'] && (!$nav['level'] || ($nav['level'] == 1 && $_G['uid']) || ($nav['level'] == 2 && $_G['adminid'] > 0) || ($nav['level'] == 3 && $_G['adminid'] == 1))}-->$nav[code]<!--{/if}-->
 					<!--{/loop}-->
-					<!--{template common/header_weather}-->
+					<!-- 天气 -->
+					<div id="toptbmsg" class="z">
+						<!--{hook/global_weather}-->
+					</div>
 					<!--{subtemplate common/pubsearchform}-->
 					<div class="swi y">
 						<!--{if empty($_G['disabledwidthauto']) && $_G['setting']['switchwidthauto']}-->
