@@ -488,8 +488,6 @@ var blockedPIDs = [<!--{echo implode(',', $_G['blockedpids'])}-->];
 <!--{/if}-->
 <!--{if $postlist && empty($_G['setting']['disfixedavatar'])}-->
 fixed_avatar([<!--{echo implode(',', array_keys($postlist))}-->], 0);
-<!--{elseif empty($_G['setting']['disfixednv_viewthread'])}-->
-fixed_top_nv();
 <!--{/if}-->
 </script>
 <!--{template common/footer}-->
