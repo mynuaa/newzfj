@@ -157,7 +157,18 @@
 	<!--{if $_G[fid] && $_G['mod'] == 'viewthread'}-->
 	<span><a href="forum.php?mod=post&action=reply&fid=$_G[fid]&tid=$_G[tid]&extra=$_GET[extra]&page=$page{if $_GET[from]}&from=$_GET[from]{/if}" onclick="showWindow('reply', this.href)" class="replyfast" title="{lang fastreply}"><b>{lang fastreply}</b></a></span>
 	<!--{/if}-->
-	<span hidefocus="true"><a title="{lang scrolltop}" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>{lang scrolltop}</b></a></span>
+	<span hidefocus="true"><a title="{lang scrolltop}" class="scrolltopa" ><b>{lang scrolltop}</b></a></span>
+	<script>
+	var obj = document.getElementsByClassName("scrolltopa")[0];
+	var goTop;
+	function scrollMove() {
+		window.scrollTo(0, window.scrollY / 1.1);
+		if (window.scrollY < 1) clearInterval(goTop);
+	}
+	obj.onclick = function() {
+		goTop = setInterval(scrollMove, 10);
+	};
+	</script>
 	<!--{if $_G[fid]}-->
 	<span>
 		<!--{if $_G['mod'] == 'viewthread'}-->
