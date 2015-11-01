@@ -160,10 +160,11 @@
 	<span hidefocus="true"><a title="{lang scrolltop}" class="scrolltopa" id="scrolltopa"><b>{lang scrolltop}</b></a></span>
 	<script>
 	var obj = document.getElementById("scrolltopa");
-	var goTop;
+	var goTop, offsetTop;
 	function scrollMove() {
-		window.scrollTo(0, window.scrollY / 1.1);
-		if (window.scrollY < 1) clearInterval(goTop);
+		offsetTop = window.scrollY || document.documentElement.scrollTop || 0;
+		window.scrollTo(0, parseInt(offsetTop / 1.1));
+		if (offsetTop < 1) clearInterval(goTop);
 	}
 	obj.onclick = function() {
 		goTop = setInterval(scrollMove, 10);
