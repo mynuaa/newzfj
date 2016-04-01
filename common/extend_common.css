@@ -1,27 +1,4 @@
-﻿/* 插件同步登录 */
-.z.wi {
-	position: relative;
-}
-#sso_link {
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	background: #6C5B7B;
-	width: 130px;
-}
-#sso_link a {
-	display: block;
-	width: 100%;
-	text-align: center;
-	height: 36px;
-	line-height: 36px;
-	color: white;
-}
-#sso_link a:hover {
-	background: #C06C84;
-	text-decoration: none;
-}
-.dis_b{display: block!important;}
+﻿.dis_b{display: block!important;}
 /*导航及活跃会员*/
 .scan_leader{height: 32px;line-height: 32px;text-align: center;font-weight: 700;font-size: 14px;}
 	.scan_leader li{float: left;width: 80px;}
