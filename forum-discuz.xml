@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <root>
-	<item id="spacecss"><![CDATA[#frameLz5OMy { border:0px !important;margin:0px !important;}#portal_block_215 .dxb_bc { margin:0px !important;}#tabNDu256 { border-top:#000000 0px !important;border-right:#cccccc 1px solid !important;border-bottom:#ffffffffffff none !important;border-left:#cccccc 1px solid !important;margin-top:0px !important;margin-right:8px !important;margin-bottom:0px !important;margin-left:0px !important;}#portal_block_960 { border-top:#000000 0px !important;border-right:#cccccc 1px solid !important;border-bottom:#gffffgggggggggg none !important;border-left:#cccccc 1px solid !important;margin:0px !important;}#framekw13ZI { border:#000000 0px !important;margin-top:0px !important;margin-right:0px !important;margin-bottom:10px !important;margin-left:0px !important;}#portal_block_961 { margin:0px !important;border-top:#000000 0px !important;border-right:#000000 0px !important;border-left:#000000 0px !important;}#portal_block_961 .dxb_bc { margin:0px !important;}#portal_block_960 .dxb_bc { margin:0px !important;}#framemvk7ZE { border:0px !important;margin:0px !important;}#portal_block_962 .dxb_bc { margin:0px !important;}]]></item>
+	<item id="spacecss"><![CDATA[#frameLz5OMy { border:0px !important;margin:0px !important;}#portal_block_215 .dxb_bc { margin:0px !important;}#tabNDu256 { border-top:#000000 0px !important;border-right:#cccccc 1px solid !important;border-bottom:#ffffffffffff none !important;border-left:#cccccc 1px solid !important;margin-top:0px !important;margin-right:8px !important;margin-bottom:0px !important;margin-left:0px !important;}#portal_block_960 { border-top:#000000 0px !important;border-right:#cccccc 1px solid !important;border-bottom:#gffffgggggggggg none !important;border-left:#cccccc 1px solid !important;margin:0px !important;}#framekw13ZI { border:#000000 0px !important;margin-top:0px !important;margin-right:0px !important;margin-bottom:10px !important;margin-left:0px !important;}#portal_block_961 { margin:0px !important;border-top:#000000 0px !important;border-right:#000000 0px !important;border-left:#000000 0px !important;}#portal_block_961 .dxb_bc { margin:0px !important;}#portal_block_960 .dxb_bc { margin:0px !important;}]]></item>
 	<item id="layoutdata">
 		<item id="diy1">
 			<item id="frame`framekw13ZI">
@@ -380,7 +380,7 @@
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[1]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459073599]]></item>
+				<item id="dateline"><![CDATA[1459939704]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -433,7 +433,7 @@
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459047267]]></item>
+				<item id="dateline"><![CDATA[1459929149]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -492,7 +492,7 @@
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459036672]]></item>
+				<item id="dateline"><![CDATA[1459902364]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -526,7 +526,7 @@
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[1]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459073599]]></item>
+				<item id="dateline"><![CDATA[1459939704]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -559,7 +559,7 @@
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459047253]]></item>
+				<item id="dateline"><![CDATA[1459902222]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[1]]></item>
 			</item>
@@ -634,7 +634,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459047259]]></item>
+				<item id="dateline"><![CDATA[1459902227]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[1]]></item>
 			</item>
@@ -698,107 +698,74 @@ runslideshow();
 						<item id="2"><![CDATA[740]]></item>
 						<item id="3"><![CDATA[778]]></item>
 						<item id="4"><![CDATA[2]]></item>
-						<item id="5"><![CDATA[773]]></item>
-						<item id="6"><![CDATA[239]]></item>
-						<item id="7"><![CDATA[170]]></item>
-						<item id="8"><![CDATA[713]]></item>
-						<item id="9"><![CDATA[139]]></item>
-						<item id="10"><![CDATA[199]]></item>
-						<item id="11"><![CDATA[126]]></item>
-						<item id="12"><![CDATA[169]]></item>
-						<item id="13"><![CDATA[722]]></item>
-						<item id="14"><![CDATA[201]]></item>
-						<item id="15"><![CDATA[19]]></item>
-						<item id="16"><![CDATA[145]]></item>
-						<item id="17"><![CDATA[18]]></item>
-						<item id="18"><![CDATA[261]]></item>
-						<item id="19"><![CDATA[21]]></item>
-						<item id="20"><![CDATA[206]]></item>
-						<item id="21"><![CDATA[168]]></item>
-						<item id="22"><![CDATA[167]]></item>
-						<item id="23"><![CDATA[209]]></item>
-						<item id="24"><![CDATA[772]]></item>
-						<item id="25"><![CDATA[3]]></item>
-						<item id="26"><![CDATA[750]]></item>
-						<item id="27"><![CDATA[751]]></item>
-						<item id="28"><![CDATA[9]]></item>
-						<item id="29"><![CDATA[10]]></item>
-						<item id="30"><![CDATA[769]]></item>
-						<item id="31"><![CDATA[774]]></item>
-						<item id="32"><![CDATA[712]]></item>
-						<item id="33"><![CDATA[709]]></item>
-						<item id="34"><![CDATA[752]]></item>
-						<item id="35"><![CDATA[711]]></item>
-						<item id="36"><![CDATA[708]]></item>
-						<item id="37"><![CDATA[8]]></item>
-						<item id="38"><![CDATA[147]]></item>
-						<item id="39"><![CDATA[11]]></item>
-						<item id="40"><![CDATA[25]]></item>
-						<item id="41"><![CDATA[4]]></item>
-						<item id="42"><![CDATA[15]]></item>
-						<item id="43"><![CDATA[716]]></item>
-						<item id="44"><![CDATA[16]]></item>
-						<item id="45"><![CDATA[253]]></item>
-						<item id="46"><![CDATA[249]]></item>
-						<item id="47"><![CDATA[109]]></item>
+						<item id="5"><![CDATA[239]]></item>
+						<item id="6"><![CDATA[170]]></item>
+						<item id="7"><![CDATA[713]]></item>
+						<item id="8"><![CDATA[139]]></item>
+						<item id="9"><![CDATA[199]]></item>
+						<item id="10"><![CDATA[126]]></item>
+						<item id="11"><![CDATA[201]]></item>
+						<item id="12"><![CDATA[722]]></item>
+						<item id="13"><![CDATA[169]]></item>
+						<item id="14"><![CDATA[19]]></item>
+						<item id="15"><![CDATA[145]]></item>
+						<item id="16"><![CDATA[18]]></item>
+						<item id="17"><![CDATA[21]]></item>
+						<item id="18"><![CDATA[206]]></item>
+						<item id="19"><![CDATA[209]]></item>
+						<item id="20"><![CDATA[168]]></item>
+						<item id="21"><![CDATA[167]]></item>
+						<item id="22"><![CDATA[3]]></item>
+						<item id="23"><![CDATA[750]]></item>
+						<item id="24"><![CDATA[751]]></item>
+						<item id="25"><![CDATA[10]]></item>
+						<item id="26"><![CDATA[769]]></item>
+						<item id="27"><![CDATA[774]]></item>
+						<item id="28"><![CDATA[712]]></item>
+						<item id="29"><![CDATA[709]]></item>
+						<item id="30"><![CDATA[752]]></item>
+						<item id="31"><![CDATA[708]]></item>
+						<item id="32"><![CDATA[711]]></item>
+						<item id="33"><![CDATA[8]]></item>
+						<item id="34"><![CDATA[147]]></item>
+						<item id="35"><![CDATA[11]]></item>
+						<item id="36"><![CDATA[4]]></item>
+						<item id="37"><![CDATA[13]]></item>
+						<item id="38"><![CDATA[138]]></item>
+						<item id="39"><![CDATA[26]]></item>
+						<item id="40"><![CDATA[184]]></item>
+						<item id="41"><![CDATA[16]]></item>
+						<item id="42"><![CDATA[253]]></item>
+						<item id="43"><![CDATA[249]]></item>
+						<item id="44"><![CDATA[109]]></item>
+						<item id="45"><![CDATA[17]]></item>
+						<item id="46"><![CDATA[718]]></item>
+						<item id="47"><![CDATA[23]]></item>
 						<item id="48"><![CDATA[236]]></item>
-						<item id="49"><![CDATA[13]]></item>
-						<item id="50"><![CDATA[138]]></item>
-						<item id="51"><![CDATA[23]]></item>
-						<item id="52"><![CDATA[31]]></item>
-						<item id="53"><![CDATA[26]]></item>
-						<item id="54"><![CDATA[184]]></item>
-						<item id="55"><![CDATA[17]]></item>
-						<item id="56"><![CDATA[718]]></item>
-						<item id="57"><![CDATA[6]]></item>
-						<item id="58"><![CDATA[765]]></item>
-						<item id="59"><![CDATA[148]]></item>
-						<item id="60"><![CDATA[237]]></item>
-						<item id="61"><![CDATA[24]]></item>
-						<item id="62"><![CDATA[166]]></item>
-						<item id="63"><![CDATA[27]]></item>
-						<item id="64"><![CDATA[757]]></item>
-						<item id="65"><![CDATA[736]]></item>
-						<item id="66"><![CDATA[196]]></item>
-						<item id="67"><![CDATA[28]]></item>
-						<item id="68"><![CDATA[1]]></item>
-						<item id="69"><![CDATA[689]]></item>
-						<item id="70"><![CDATA[260]]></item>
-						<item id="71"><![CDATA[729]]></item>
-						<item id="72"><![CDATA[771]]></item>
-						<item id="73"><![CDATA[759]]></item>
-						<item id="74"><![CDATA[234]]></item>
-						<item id="75"><![CDATA[182]]></item>
-						<item id="76"><![CDATA[46]]></item>
-						<item id="77"><![CDATA[112]]></item>
-						<item id="78"><![CDATA[193]]></item>
-						<item id="79"><![CDATA[754]]></item>
-						<item id="80"><![CDATA[731]]></item>
-						<item id="81"><![CDATA[723]]></item>
-						<item id="82"><![CDATA[691]]></item>
-						<item id="83"><![CDATA[189]]></item>
-						<item id="84"><![CDATA[214]]></item>
-						<item id="85"><![CDATA[215]]></item>
-						<item id="86"><![CDATA[133]]></item>
-						<item id="87"><![CDATA[220]]></item>
-						<item id="88"><![CDATA[185]]></item>
-						<item id="89"><![CDATA[43]]></item>
-						<item id="90"><![CDATA[233]]></item>
-						<item id="91"><![CDATA[690]]></item>
-						<item id="92"><![CDATA[174]]></item>
-						<item id="93"><![CDATA[123]]></item>
-						<item id="94"><![CDATA[746]]></item>
-						<item id="95"><![CDATA[703]]></item>
-						<item id="96"><![CDATA[7]]></item>
-						<item id="97"><![CDATA[29]]></item>
-						<item id="98"><![CDATA[130]]></item>
-						<item id="99"><![CDATA[175]]></item>
-						<item id="100"><![CDATA[180]]></item>
-						<item id="101"><![CDATA[95]]></item>
-						<item id="102"><![CDATA[108]]></item>
-						<item id="103"><![CDATA[61]]></item>
-						<item id="104"><![CDATA[154]]></item>
-						<item id="105"><![CDATA[110]]></item>
+						<item id="49"><![CDATA[31]]></item>
+						<item id="50"><![CDATA[818]]></item>
+						<item id="51"><![CDATA[840]]></item>
+						<item id="52"><![CDATA[820]]></item>
+						<item id="53"><![CDATA[821]]></item>
+						<item id="54"><![CDATA[822]]></item>
+						<item id="55"><![CDATA[6]]></item>
+						<item id="56"><![CDATA[765]]></item>
+						<item id="57"><![CDATA[148]]></item>
+						<item id="58"><![CDATA[237]]></item>
+						<item id="59"><![CDATA[28]]></item>
+						<item id="60"><![CDATA[7]]></item>
+						<item id="61"><![CDATA[29]]></item>
+						<item id="62"><![CDATA[130]]></item>
+						<item id="63"><![CDATA[1]]></item>
+						<item id="64"><![CDATA[731]]></item>
+						<item id="65"><![CDATA[174]]></item>
+						<item id="66"><![CDATA[175]]></item>
+						<item id="67"><![CDATA[180]]></item>
+						<item id="68"><![CDATA[95]]></item>
+						<item id="69"><![CDATA[61]]></item>
+						<item id="70"><![CDATA[108]]></item>
+						<item id="71"><![CDATA[154]]></item>
+						<item id="72"><![CDATA[110]]></item>
 					</item>
 					<item id="special">
 						<item id="0"><![CDATA[1]]></item>
@@ -825,7 +792,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[0,0]]></item>
 				<item id="punctualupdate"><![CDATA[1]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459076438]]></item>
+				<item id="dateline"><![CDATA[1459942651]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1088,7 +1055,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[1]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459076438]]></item>
+				<item id="dateline"><![CDATA[1459942376]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1146,7 +1113,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[1]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459076438]]></item>
+				<item id="dateline"><![CDATA[1459942376]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1183,7 +1150,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459056836]]></item>
+				<item id="dateline"><![CDATA[1459929470]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1242,7 +1209,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[1]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459075400]]></item>
+				<item id="dateline"><![CDATA[1459939704]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1303,7 +1270,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[1]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459075400]]></item>
+				<item id="dateline"><![CDATA[1459939704]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1361,7 +1328,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[1]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1459076438]]></item>
+				<item id="dateline"><![CDATA[1459942376]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
