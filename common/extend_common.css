@@ -1,4 +1,4 @@
-﻿.dis_b{display: block!important;}
+.dis_b{display: block!important;}
 /*导航及活跃会员*/
 .scan_leader{height: 32px;line-height: 32px;text-align: center;font-weight: 700;font-size: 14px;}
 	.scan_leader li{float: left;width: 80px;}
@@ -72,4 +72,7 @@
 .navitablestyle
 {
 	background:#58ACFA;
+}
+.bm_c.cl.pbn .ptn.xg2 img {
+	max-width: 100%;
 }
