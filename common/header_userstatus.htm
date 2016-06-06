@@ -32,35 +32,7 @@
 		<a href="javascript:;" title="其它" class="extra" id="extra" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'extra','duration':2});})">其它</a> 
 		<a href="member.php?mod=logging&action=logout&formhash={FORMHASH}" class="logout" title="{lang logout}">{lang logout}</a>
 	</div>
-	<div id="extra_menu" class="p_pop" style="display:none">
-		<!--{if empty($_G['cookie']['ignore_notice']) && ($_G[member][newpm] || $_G[member][newprompt_num][follower] || $_G[member][newprompt_num][follow] || $_G[member][newprompt])}-->
-			<script language="javascript">delayShow($('myprompt'), function() {showMenu({'ctrlid':'myprompt','duration':3})});</script>
-		<!--{/if}-->
-		<!--{if $_G['setting']['taskon'] && !empty($_G['cookie']['taskdoing_'.$_G['uid']])}-->
-			<a href="home.php?mod=task&item=doing" id="task_ntc" class="new" title="{lang task_doing}">{lang task_doing}</a>
-		<!--{/if}-->
-		<!--{if ($_G['group']['allowmanagearticle'] || $_G['group']['allowpostarticle'] || $_G['group']['allowdiy'] || getstatus($_G['member']['allowadmincp'], 4) || getstatus($_G['member']['allowadmincp'], 6) || getstatus($_G['member']['allowadmincp'], 2) || getstatus($_G['member']['allowadmincp'], 3))}-->
-			<a href="portal.php?mod=portalcp">
-				<!--{if $_G['setting']['portalstatus'] }-->
-					{lang portal_manage}
-				<!--{else}-->
-					{lang portal_block_manage}
-				<!--{/if}-->
-			</a>
-		<!--{/if}-->
-		<!--{if $_G['uid'] && $_G['group']['radminid'] > 1}-->
-			<a href="forum.php?mod=modcp&fid=$_G[fid]" target="_blank">{lang forum_manager}</a>
-		<!--{/if}-->
-		<!--{if $_G['uid'] && $_G['adminid'] == 1 && $_G['setting']['cloud_status']}-->
-			<a href="admin.php?frames=yes&action=cloud&operation=applist" target="_blank">{lang cloudcp}</a>
-		<!--{/if}-->
-		<!--{if $_G['uid'] && getstatus($_G['member']['allowadmincp'], 1)}-->
-			<a href="admin.php" target="_blank">{lang admincp}</a>
-		<!--{/if}-->
-		<!--{hook/global_usernav_extra2}-->
-		<!--{hook/global_usernav_extra3}-->
-		<!--{hook/global_usernav_extra4}-->
-	</div>
+
 </div>
 <!--{elseif !empty($_G['cookie']['loginuser'])}-->
 <p>
