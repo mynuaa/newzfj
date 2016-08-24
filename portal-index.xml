@@ -474,16 +474,15 @@ text-decoration:underline;
 <ul class="friend_link cl">
 	<li style="color:#0033FF;width:90px;margin:3px 10px;font-weight: bold;">纸飞机出品</li>
 	<li style="width:200px">
-		<a href="http://my.nuaa.edu.cn/xiaohongmao/" target="_blank" title="小红帽" style="color:red;font-weight: bold;">志愿服务管理认证平台(小红帽)</a>
+		<a href="http://my.nuaa.edu.cn/xiaohongmao/" target="_blank" style="color:red;font-weight: bold;">小红帽志愿服务管理认证平台</a>
 	</li>
 	<li>
 		<a href="http://my.nuaa.edu.cn/plugin.php?id=dsu_paulsign:sign" target="_blank">纸飞机每日签到</a>
 	</li>
 	<li>
-		<a href="http://bigapp.youzu.com/mc/silence/dcodeDownload&app_id=7632" target="_blank" style="color:red;font-weight: bold;">纸飞机 APP</a>
+		<a href="http://oceg1qe2m.bkt.clouddn.com/mynuaa.apk" target="_blank" style="color:red;font-weight: bold;">纸飞机 APP</a>
 	</li>
-	
-       <li>
+    <li>
 		<a href="http://my.nuaa.edu.cn/forum.php?mod=viewthread&tid=241569" target="_blank">吃货导航</a>
 	</li>
 <li>
@@ -562,7 +561,7 @@ text-decoration:underline;
 						<item id="loop">
 						</item>
 					</item>
-					<item id="hash"><![CDATA[2d54d953]]></item>
+					<item id="hash"><![CDATA[e0928643]]></item>
 				</item>
 				<item id="picwidth"><![CDATA[0]]></item>
 				<item id="picheight"><![CDATA[0]]></item>
@@ -586,7 +585,7 @@ text-decoration:underline;
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463969027]]></item>
+				<item id="dateline"><![CDATA[1472026520]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -675,7 +674,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463960293]]></item>
+				<item id="dateline"><![CDATA[1471994725]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[1]]></item>
 			</item>
@@ -1026,7 +1025,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463965772]]></item>
+				<item id="dateline"><![CDATA[1471994385]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1114,7 +1113,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463960474]]></item>
+				<item id="dateline"><![CDATA[1472007125]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1193,7 +1192,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463959294]]></item>
+				<item id="dateline"><![CDATA[1471994023]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[1]]></item>
 			</item>
@@ -1282,7 +1281,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[0,0]]></item>
 				<item id="punctualupdate"><![CDATA[1]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463978454]]></item>
+				<item id="dateline"><![CDATA[1472026489]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1370,7 +1369,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[0,0]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463935811]]></item>
+				<item id="dateline"><![CDATA[1471996936]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1457,7 +1456,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[0,0]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463935918]]></item>
+				<item id="dateline"><![CDATA[1471996926]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1545,7 +1544,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[0,23]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463978385]]></item>
+				<item id="dateline"><![CDATA[1472026535]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1633,7 +1632,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[0,23]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463978380]]></item>
+				<item id="dateline"><![CDATA[1472026489]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1721,7 +1720,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[0,23]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463978454]]></item>
+				<item id="dateline"><![CDATA[1472026425]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1809,7 +1808,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[0,23]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463978487]]></item>
+				<item id="dateline"><![CDATA[1472026499]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1900,7 +1899,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[0,23]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463978499]]></item>
+				<item id="dateline"><![CDATA[1472026521]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
@@ -1984,7 +1983,7 @@ runslideshow();
 				<item id="cachetimerange"><![CDATA[]]></item>
 				<item id="punctualupdate"><![CDATA[0]]></item>
 				<item id="hidedisplay"><![CDATA[0]]></item>
-				<item id="dateline"><![CDATA[1463959322]]></item>
+				<item id="dateline"><![CDATA[1472006916]]></item>
 				<item id="notinherited"><![CDATA[0]]></item>
 				<item id="isblank"><![CDATA[0]]></item>
 			</item>
